@@ -1,0 +1,16 @@
+{
+  "label": "nian",
+  "package": "sa.nian.so",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614013192,
+    "version_name": "2.8.0",
+    "version_code": 353
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}
