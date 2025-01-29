@@ -1,0 +1,30 @@
+{
+  "label": "XQ_Crystal",
+  "package": "pansong291.xposed.quickenergy",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1608824662,
+    "version_name": "1.4.5",
+    "version_code": 20201120
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.eg.android.AlipayGphone",
+        "target": "pansong291.xposed.quickenergy",
+        "paths": [
+          "pansong291.xposed.quickenergy",
+          "alipay",
+          "Android/data/com.eg.android.AlipayGphone",
+          "Android/data/pansong291.xposed.quickenergy.qiufeng"
+        ]
+      }
+    }
+  }
+}

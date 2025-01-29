@@ -1,14 +1,28 @@
 {
-    "package": "org.readera",
-    "verified": true,
-    "authors": [
-        "fayeniko"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "label": "ReadEra",
+  "package": "org.readera",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1625360317,
+    "version_name": "21.06.10+1500",
+    "version_code": 1502
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "ReadEra",
+        "target": "Documents/ReadEra",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

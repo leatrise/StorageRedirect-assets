@@ -1,0 +1,26 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 43204,
+    "version_name": "7.11.34",
+    "timestamp": 1676372437
+  },
+  "non_standard_files": [
+    "duowan",
+    "kiwi",
+    "test",
+    "ycmedia"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.huya.kiwi"
+}

@@ -1,16 +1,34 @@
 {
-  "verified": true,
+  "label": "米游社",
   "package": "com.mihoyo.hyperion",
-  "recommendation": "@unnecessary",
-  "non_standard_files": [],
   "last_update": {
-    "target_api": 32,
-    "flags": "read_storage, write_storage",
-    "timestamp": 1668012482,
-    "version_name": "2.40.1",
-    "version_code": 2040001
+    "timestamp": 1652342252,
+    "version_name": "2.27.2",
+    "version_code": 2027002,
+    "target_api": 29,
+    "flags": 3
   },
+  "recommendation": "@recommended",
   "behaviors": [
-    "@standard"
-  ]
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "2106118C",
+    "locale": "zh-CN"
+  },
+  "export_folders": {
+    "data": {
+      "0": {
+        "title": "@saved_pictures",
+        "source": "Download",
+        "target": "Pictures/miHoYo",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

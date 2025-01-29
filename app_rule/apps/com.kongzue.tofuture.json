@@ -1,8 +1,8 @@
 {
+  "label": "ToFuture",
   "package": "com.kongzue.tofuture",
-  "verified": true,
   "authors": [
-    "Fe3O4-Git"
+    ""
   ],
   "last_update": {
     "timestamp": 1612042979,

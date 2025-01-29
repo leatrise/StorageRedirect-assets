@@ -1,18 +1,35 @@
 {
-    "package": "com.tencent.karaoke",
-    "verified": false,
-    "authors": [
-        "LWL12"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        {
-            "zh_CN": "该应用会在存储根目录创建多个调试信息输出/缓存文件夹，建议开启重定向。",
-            "zh": "該程式會在儲存根目錄建立多個調試信息輸出/緩存資料夾，建議開啟重新導向。",
-            "default": "This application creates multiple debug information output / cache folders in the storage root directory. It is recommended to turn on redirection."
-        }
-    ]
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".tbs",
+    ".turing.dat",
+    ".turingdebug",
+    "AudioEnv",
+    "QQBrowser",
+    "kgserver.log",
+    "kgserver.log.1",
+    "kgserver.log.2",
+    "kgserver.log.3",
+    "kgserver.log.4",
+    "libs",
+    "statistic",
+    "tencent"
+  ],
+  "package": "com.tencent.karaoke",
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage, android_writeable",
+    "timestamp": 1657021830,
+    "version_code": 3410,
+    "version_name": "8.0.38.278"
+  }
 }

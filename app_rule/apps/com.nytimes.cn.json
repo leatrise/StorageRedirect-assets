@@ -1,14 +1,16 @@
 {
-    "package": "com.nytimes.cn",
-    "verified": false,
-    "authors": [
-        "fengjiahe"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "紐約時報",
+  "package": "com.nytimes.cn",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1587716084,
+    "version_name": "2.0.2",
+    "version_code": 92
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

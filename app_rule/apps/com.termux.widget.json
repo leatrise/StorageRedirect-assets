@@ -1,8 +1,8 @@
 {
+  "label": "Termux:Widget",
   "package": "com.termux.widget",
-  "verified": true,
   "authors": [
-    "lyaaz"
+    ""
   ],
   "last_update": {
     "timestamp": 1621092690,

@@ -1,18 +1,28 @@
 {
-    "package": "com.miui.player",
-    "verified": false,
-    "authors": [
-        "fengjiahe"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse",
-        "<p>",
-        {
-            "zh_CN": "该应用运行时会在内置存储中自动创建名为“MIUI”文件夹。"
-        }
-    ]
+  "label": "音乐",
+  "package": "com.miui.player",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1627233276,
+    "version_name": "4.1.0.2",
+    "version_code": 120042
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "All",
+        "source": "qqmusiclite",
+        "target": "Music/QQ音乐小米版",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

@@ -1,0 +1,24 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    "ASD",
+    "puex_dfaa3cad.dat"
+  ],
+  "package": "com.miHoYo.GenshinImpact",
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1658815342,
+    "version_code": 402,
+    "version_name": "2.8.0_7997424_8078355"
+  }
+}

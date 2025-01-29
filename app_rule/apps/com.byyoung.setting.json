@@ -1,0 +1,36 @@
+{
+  "device_info": {
+    "api": 30,
+    "manufacturer": "blackshark",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [],
+  "recommendation": "@cause_problems",
+  "non_standard_files": [
+    "Android/data/com.android.carrierdefaultapp",
+    "Android/data/com.android.internal.systemui.navbar.threebutton",
+    "Android/data/com.blackshark.exlight",
+    "Android/data/com.miui.greenguard",
+    "Android/data/com.qualcomm.qti.qdma",
+    "Android/media/com.android.carrierdefaultapp",
+    "Android/media/com.android.internal.systemui.navbar.threebutton",
+    "Android/media/com.blackshark.exlight",
+    "Android/media/com.qualcomm.qti.qdma",
+    "Android/obb/com.android.carrierdefaultapp",
+    "Android/obb/com.android.internal.systemui.navbar.threebutton",
+    "Android/obb/com.blackshark.exlight",
+    "Android/obb/com.blackshark.gamesdkapp",
+    "Android/obb/com.miui.greenguard",
+    "Android/obb/com.qualcomm.qti.qdma",
+    "Android/obb/com.xiaomi.aiasst.service"
+  ],
+  "package": "com.byyoung.setting",
+  "last_update": {
+    "target_api": 28,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1656755274,
+    "version_code": 18231,
+    "version_name": "S-19.4.5.1"
+  }
+}

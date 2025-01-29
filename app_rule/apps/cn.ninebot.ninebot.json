@@ -1,16 +1,21 @@
 {
-  "package": "cn.ninebot.ninebot",
-  "verified": false,
-  "authors": [
-    "sanlunxue"
-  ],
-  "last_update": {
-    "timestamp": 1644059170,
-    "version_name": "5.7.0",
-    "version_code": 507000000
+  "device_info": {
+    "api": 31,
+    "locale": "zh-CN",
+    "manufacturer": "Xiaomi"
   },
-  "recommendation": "@recommended",
+  "verified": true,
+  "package": "cn.ninebot.ninebot",
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1668504878,
+    "version_name": "6.0.7",
+    "version_code": 600070105
+  },
   "behaviors": [
-    "@abuse"
+    "@standard"
   ]
 }

@@ -1,17 +1,22 @@
 {
-  "package": "com.google.android.marvin.talkback",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
-  "last_update": {
-    "timestamp": 1656217304,
-    "version_name": "12.2.0.442723463",
-    "version_code": 60123274
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
   },
-  "recommendation": "@unnecessary",
+  "verified": true,
   "behaviors": [
     "@standard"
   ],
-  "non_standard_files": []
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.marvin.talkback",
+  "last_update": {
+    "shared_user_id": "com.google.android.marvin.feedback",
+    "target_api": 31,
+    "flags": "",
+    "timestamp": 1656217304,
+    "version_code": 60123274,
+    "version_name": "12.2.0.442723463"
+  }
 }

@@ -1,0 +1,31 @@
+{
+  "label": "UnblockMusic Pro",
+  "package": "com.raincat.unblockmusicpro",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1601195656,
+    "version_name": "2.8.2",
+    "version_code": 282
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.netease.cloudmusic",
+        "target": "com.raincat.unblockmusicpro",
+        "paths": [
+          "netease",
+          "UnblockMusicPro",
+          "Android/data/com.netease.cloudmusic",
+          "Android/media/com.netease.cloudmusic",
+          "Android/obb/com.netease.cloudmusic"
+        ]
+      }
+    }
+  }
+}

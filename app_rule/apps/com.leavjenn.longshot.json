@@ -1,0 +1,28 @@
+{
+  "label": "LongShot",
+  "package": "com.leavjenn.longshot",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1594710262,
+    "version_name": "0.99.83",
+    "version_code": 2060
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_pictures",
+        "source": "longshot",
+        "target": "Pictures/Longshot",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
+}

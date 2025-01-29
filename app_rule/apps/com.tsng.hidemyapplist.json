@@ -1,16 +1,22 @@
 {
+  "label": "隐藏应用列表",
   "package": "com.tsng.hidemyapplist",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
     "timestamp": 1652314182,
     "version_name": "2.3.2",
-    "version_code": 73
+    "version_code": 73,
+    "target_api": 32,
+    "flags": 0
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "2106118C",
+    "locale": "zh-CN"
+  }
 }

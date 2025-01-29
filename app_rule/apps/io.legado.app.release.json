@@ -1,8 +1,8 @@
 {
+  "label": "阅读",
   "package": "io.legado.app.release",
-  "verified": true,
   "authors": [
-    "o0oo0ooo0"
+    ""
   ],
   "last_update": {
     "timestamp": 1638543273,

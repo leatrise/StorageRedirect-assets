@@ -1,13 +1,13 @@
 {
+  "label": "阿里云盘",
   "package": "com.alicloud.databox",
   "authors": [
-    "LittleChest",
-    "Seameee"
+    ""
   ],
   "last_update": {
-    "timestamp": 1650358477,
-    "version_name": "3.2.0",
-    "version_code": 122
+    "timestamp": 1647052434,
+    "version_name": "2.4.1",
+    "version_code": 109
   },
   "recommendation": "@recommended",
   "behaviors": [
@@ -16,13 +16,20 @@
   "export_folders": {
     "data": {
       "0": {
-        "title": "@downloaded_files",
-        "source": "AliYunPan",
-        "target": "Download/AliYunPan",
+        "summary": "@downloaded_files",
+        "source": "AliYunPan/文件",
+        "target": "Download/AliCloudDataBox",
         "call_media_scan": true,
         "add_to_downloads": true,
-        "allow_child": false,
-        "allow_temp": false
+        "allow_child": false
+      },
+      "1": {
+        "summary": "@saved_pictures",
+        "source": "AliYunPan/相册",
+        "target": "Pictures/AliCloudDataBox",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
       }
     }
   }

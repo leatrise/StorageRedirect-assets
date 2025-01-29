@@ -1,14 +1,16 @@
 {
-    "package": "cn.metroman.railman",
-    "verified": true,
-    "authors": [
-        "galentwww"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "label": "高铁通",
+  "package": "cn.metroman.railman",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1593651442,
+    "version_name": "1.0.0",
+    "version_code": 20191028
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

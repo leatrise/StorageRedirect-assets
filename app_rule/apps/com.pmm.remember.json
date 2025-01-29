@@ -1,0 +1,16 @@
+{
+  "label": "记得倒数日",
+  "package": "com.pmm.remember",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1639387082,
+    "version_name": "0.7.3_patch8",
+    "version_code": 183
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

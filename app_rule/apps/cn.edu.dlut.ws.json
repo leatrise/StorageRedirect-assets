@@ -1,18 +1,14 @@
 {
-  "package": "cn.edu.dlut.ws",
-  "verified": false,
-  "authors": [
-    "Janet-Baker"
-  ],
-  "last_update": {
-    "timestamp": 1656106217,
-    "version_name": "3.2.2.74616",
-    "version_code": 74616
+  "device_info": {
+    "api": 28,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
   },
-  "recommendation": "@recommended",
+  "verified": false,
   "behaviors": [
     "@abuse"
   ],
+  "recommendation": "@recommended",
   "non_standard_files": [
     ".DataStorage",
     ".UTSystemConfig",
@@ -20,5 +16,13 @@
     "libs",
     "msc",
     "system"
-  ]
+  ],
+  "package": "cn.edu.dlut.ws",
+  "last_update": {
+    "target_api": 27,
+    "flags": "read_storage, write_storage, android_writeable",
+    "timestamp": 1656106217,
+    "version_code": 74616,
+    "version_name": "3.2.2.74616"
+  }
 }

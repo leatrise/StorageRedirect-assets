@@ -1,15 +1,16 @@
 {
-    "package": "com.nngdjt.app",
-    "authors": [
-        "arcovery"
-    ],
-    "last_update": {
-        "timestamp": 1586258391,
-        "version_name": "3.0.2",
-        "version_code": 31
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "南宁轨道交通",
+  "package": "com.nngdjt.app",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586258391,
+    "version_name": "3.0.2",
+    "version_code": 31
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

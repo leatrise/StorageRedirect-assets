@@ -1,0 +1,28 @@
+{
+  "label": "Aurora Droid",
+  "package": "com.aurora.adroid",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1650246770,
+    "version_name": "1.0.8",
+    "version_code": 8
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@downloaded_files",
+        "source": "Aurora/Droid",
+        "target": "Download/Aurora",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

@@ -1,14 +1,16 @@
 {
-    "package": "com.android.thememanager",
-    "verified": true,
-    "authors": [
-        "Vstory"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "label": "主题壁纸",
+  "package": "com.android.thememanager",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1644467157,
+    "version_name": "3.2.0.0",
+    "version_code": 3200
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

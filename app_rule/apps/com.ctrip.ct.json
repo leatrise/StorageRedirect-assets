@@ -1,0 +1,16 @@
+{
+  "label": "携程企业商旅",
+  "package": "com.ctrip.ct",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1602173019,
+    "version_name": "7.76.0",
+    "version_code": 776000
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

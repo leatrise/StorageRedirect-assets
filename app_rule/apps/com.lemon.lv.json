@@ -1,20 +1,24 @@
 {
-  "package": "com.lemon.lv",
   "verified": false,
-  "authors": [
-    "ArthurCyy"
-  ],
-  "last_update": {
-    "timestamp": 1654826380,
-    "version_name": "8.0.0",
-    "version_code": 80016
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 31,
+    "manufacturer": "Xiaomi"
   },
-  "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
+  "recommendation": "@recommended",
+  "package": "com.lemon.lv",
   "non_standard_files": [
     "Android/data/com.snssdk.api.embed",
     "Android/obj"
-  ]
+  ],
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage, write_storage",
+    "version_name": "8.0.0",
+    "timestamp": 1654826380,
+    "version_code": 80016
+  }
 }

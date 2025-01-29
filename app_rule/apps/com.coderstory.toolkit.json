@@ -1,16 +1,22 @@
 {
+  "label": "核心破解",
   "package": "com.coderstory.toolkit",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
     "timestamp": 1652373185,
     "version_name": "3.8",
-    "version_code": 1921
+    "version_code": 1921,
+    "target_api": 31,
+    "flags": 0
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 30,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "M2105K81AC",
+    "locale": "zh-CN"
+  }
 }

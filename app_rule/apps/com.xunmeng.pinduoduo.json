@@ -1,14 +1,27 @@
 {
-    "package": "com.xunmeng.pinduoduo",
-    "verified": false,
-    "authors": [
-        "BayInl"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".DataStorage",
+    ".SystemConfig",
+    ".UTSystemConfig",
+    "5A968A4B377F25ED0A1FD3C67B0CEE31",
+    "tencent"
+  ],
+  "package": "com.xunmeng.pinduoduo",
+  "last_update": {
+    "target_api": 27,
+    "flags": "read_storage, write_storage, android_writeable",
+    "timestamp": 1656731819,
+    "version_code": 61700,
+    "version_name": "6.17.0"
+  }
 }

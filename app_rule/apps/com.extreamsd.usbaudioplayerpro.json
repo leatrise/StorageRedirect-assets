@@ -1,17 +1,23 @@
 {
-  "package": "com.extreamsd.usbaudioplayerpro",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 31,
+    "locale": "zh-CN"
+  },
+  "non_standard_files": [
+    "UAPP"
   ],
   "last_update": {
-    "timestamp": 1656911673,
-    "version_name": "6.0.7.7",
-    "version_code": 6077
+    "flags": "read_storage, write_storage",
+    "target_api": 28,
+    "version_code": 561,
+    "timestamp": 1654664808,
+    "version_name": "5.6.1"
   },
-  "recommendation": "@unnecessary",
   "behaviors": [
-    "@standard"
+    "@abuse"
   ],
-  "non_standard_files": []
+  "package": "com.extreamsd.usbaudioplayerpro",
+  "recommendation": "@recommended"
 }

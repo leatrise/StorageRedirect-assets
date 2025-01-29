@@ -1,21 +1,22 @@
 {
+  "label": "腾讯会议",
   "package": "com.tencent.wemeet.app",
-  "verified": false,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
-    "timestamp": 1665822377,
-    "version_name": "3.11.4.443",
-    "version_code": 2023360185
+    "timestamp": 1652011221,
+    "version_name": "2.18.3.403",
+    "version_code": 2021090322,
+    "target_api": 30,
+    "flags": 11
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
-  "non_standard_files": [
-    ".tbs",
-    "QQBrowser",
-    "tencent"
-  ]
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
 }

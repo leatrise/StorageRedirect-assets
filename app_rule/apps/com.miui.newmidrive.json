@@ -1,0 +1,28 @@
+{
+  "label": "小米云盘",
+  "package": "com.miui.newmidrive",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1593270255,
+    "version_name": "1.0.1",
+    "version_code": 10001
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@downloaded_files",
+        "source": "MiDrive",
+        "target": "Download/MiDrive",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

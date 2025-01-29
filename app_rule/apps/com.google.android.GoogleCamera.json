@@ -1,14 +1,16 @@
 {
-    "package": "com.google.android.GoogleCamera",
-    "verified": true,
-    "authors": [
-        "Sherlock-Holo"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "label": "相机",
+  "package": "com.google.android.GoogleCamera",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1615561008,
+    "version_name": "4.4.020.163412804",
+    "version_code": 41174009
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

@@ -1,0 +1,16 @@
+{
+  "label": "Pascal\u0027s Wager Demo",
+  "package": "com.tipsworks.android.pascalswager.google",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1592388817,
+    "version_name": "0.1.10",
+    "version_code": 7
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

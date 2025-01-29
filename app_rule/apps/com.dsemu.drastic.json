@@ -1,14 +1,28 @@
 {
-    "package": "com.dsemu.drastic",
-    "verified": false,
-    "authors": [
-        "Yeyongmeng29"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "DraStic",
+  "package": "com.dsemu.drastic",
+  "authors": [
+    "piscesmk2013"
+  ],
+  "last_update": {
+    "timestamp": 1596988271,
+    "version_name": "r2.5.2.0a",
+    "version_code": 102
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.zhangyangjing.starfish",
+        "target": "com.dsemu.drastic",
+        "paths": [
+          "Starfish",
+          "Android/data/com.zhangyangjing.starfish"
+        ]
+      }
+    }
+  }
 }

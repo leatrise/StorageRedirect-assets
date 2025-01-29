@@ -1,23 +1,25 @@
 {
-  "verified": false,
   "device_info": {
+    "manufacturer": "Xiaomi",
     "locale": "zh-CN",
-    "api": 34,
-    "manufacturer": "Xiaomi"
+    "api": 34
   },
-  "non_standard_files": [
-    "123云盘"
-  ],
-  "behaviors": [
-    "@abuse"
-  ],
-  "package": "com.mfcloudcalculate.networkdisk",
-  "recommendation": "@recommended",
+  "verified": false,
   "last_update": {
     "flags": "read_storage, write_storage",
     "target_api": 31,
-    "version_name": "2.4.7",
-    "timestamp": 1729220098,
-    "version_code": 69
-  }
+    "version_code": 52,
+    "version_name": "2.3.10.1",
+    "timestamp": 1709181469
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".oukdtft",
+    "123云盘",
+    "com.mfcloudcalculate.networkdisk"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.mfcloudcalculate.networkdisk"
 }

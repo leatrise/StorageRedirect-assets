@@ -1,21 +1,26 @@
 {
-    "package": "com.forfan.bigbang.coolapk",
-    "verified": false,
-    "behaviors": [
-        "@abuse"
-    ],
-    "recommendation": "@recommended",
-    "non_standard_files": [
-        "Android/data/.um",
-        "Android/obj",
-        "bigbang_pic_cache",
-        "umeng_cache"
-    ],
-    "last_update": {
-        "target_api": 26,
-        "flags": "read_storage, write_storage",
-        "timestamp": 1666455676,
-        "version_code": 300900801,
-        "version_name": "3.9.8.1"
-    }
+  "device_info": {
+    "api": 31,
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    "Android/data/.um",
+    "Android/obj",
+    "bigbang_pic_cache",
+    "umeng_cache"
+  ],
+  "package": "com.forfan.bigbang.coolapk",
+  "last_update": {
+    "target_api": 26,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1666455676,
+    "version_code": 300900801,
+    "version_name": "3.9.8.1"
+  }
 }

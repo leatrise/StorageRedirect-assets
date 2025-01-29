@@ -1,17 +1,21 @@
 {
-  "package": "org.bromite.chromium",
   "verified": true,
-  "authors": [
-    "wordlesswind"
-  ],
-  "last_update": {
-    "timestamp": 1654850405,
-    "version_name": "102.0.5005.92",
-    "version_code": 1654041730
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "api": 32,
+    "locale": "zh-CN"
   },
-  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 31,
+    "version_code": 1654041730,
+    "timestamp": 1654850405,
+    "version_name": "102.0.5005.92"
+  },
   "behaviors": [
     "@standard"
   ],
-  "non_standard_files": []
+  "package": "org.bromite.chromium",
+  "recommendation": "@unnecessary"
 }

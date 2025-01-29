@@ -1,11 +1,16 @@
 {
-    "package": "me.weishu.exp",
-    "verified": false,
-    "authors": [
-        "imonace"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@not_recommended"
+  "label": "太极",
+  "package": "me.weishu.exp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1588615724,
+    "version_name": "湛泸·6.2.0",
+    "version_code": 620
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

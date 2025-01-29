@@ -1,16 +1,22 @@
 {
+  "label": "李宁",
   "package": "com.ebsig.shop",
-  "verified": false,
-  "authors": [
-    "WOLFRAZOR"
-  ],
   "last_update": {
     "timestamp": 1652116996,
     "version_name": "5.2.6",
-    "version_code": 526
+    "version_code": 526,
+    "target_api": 30,
+    "flags": 11
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
-  ]
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
 }

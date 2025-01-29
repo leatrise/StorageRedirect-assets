@@ -1,8 +1,8 @@
 {
+  "label": "YouTube Music",
   "package": "com.google.android.apps.youtube.music",
-  "verified": true,
   "authors": [
-    "uLcdia"
+    ""
   ],
   "last_update": {
     "timestamp": 1641611759,

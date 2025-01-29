@@ -1,14 +1,28 @@
 {
-    "package": "com.aurora.store",
-    "verified": true,
-    "authors": [
-        "Noah"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
-}
+  "label": "Aurora Store",
+  "package": "com.aurora.store",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612072864,
+    "version_name": "3.2.9",
+    "version_code": 29
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@downloaded_files",
+        "source": "Aurora",
+        "target": "Download/AuroraStore",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+} 

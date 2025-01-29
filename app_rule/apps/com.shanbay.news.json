@@ -1,0 +1,22 @@
+{
+  "label": "扇贝阅读",
+  "package": "com.shanbay.news",
+  "last_update": {
+    "timestamp": 1652063516,
+    "version_name": "4.3.8002",
+    "version_code": 438002,
+    "target_api": 29,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

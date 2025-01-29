@@ -1,0 +1,24 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_code": 160808000,
+    "version_name": "16.8.8",
+    "timestamp": 1662782660
+  },
+  "non_standard_files": [
+    "backups",
+    "baidu"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.android.browser",
+  "recommendation": "@recommended"
+}

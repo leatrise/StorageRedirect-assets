@@ -1,15 +1,28 @@
 {
-    "package": "com.hengye.share",
-    "verified": false,
-    "authors": [
-        "nickyc4",
-        "xzsk2"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "Share",
+  "package": "com.hengye.share",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1594166208,
+    "version_name": "3.5.3",
+    "version_code": 812
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_pictures",
+        "source": "Pictures/ShareMedia",
+        "target": "Pictures/ShareMedia",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
 }

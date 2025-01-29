@@ -1,16 +1,22 @@
 {
+  "label": "手机性能排行",
   "package": "com.nasoft.socmark",
-  "verified": true,
-  "authors": [
-    "WOLFRAZOR"
-  ],
   "last_update": {
     "timestamp": 1652116766,
     "version_name": "5.0.3",
-    "version_code": 203
+    "version_code": 203,
+    "target_api": 28,
+    "flags": 0
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
 }

@@ -1,15 +1,25 @@
 {
-    "package": "com.oneplus.filemanager",
-    "verified": true,
-    "authors": [
-        "zhs852",
-        "cqhhy2001"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "verified": false,
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "api": 30,
+    "locale": "zh-CN"
+  },
+  "non_standard_files": [
+    ".turingdebug",
+    "com.oneplus.filemanager_TMF_TMS"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "shared_user_id": "android.uid.system",
+    "target_api": 30,
+    "version_code": 320200612,
+    "timestamp": 1653755172,
+    "version_name": "2.6.4.1.210514195840.6329657"
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.oneplus.filemanager",
+  "recommendation": "@recommended"
 }

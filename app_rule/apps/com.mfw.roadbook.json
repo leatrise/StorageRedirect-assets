@@ -1,14 +1,33 @@
 {
-    "package": "com.mfw.roadbook",
-    "verified": false,
-    "authors": [
-        "Mirr0ch1"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 935,
+    "version_name": "10.4.6",
+    "timestamp": 1662592790
+  },
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".duid",
+    ".mfw",
+    ".thumbcache_idx_001",
+    "Android/ANDROID.PERMISSION.TEST",
+    "Android/obj",
+    "Documents/.thumbcache_idx_001",
+    "Download/.thumbcache_idx_001",
+    "IDMP",
+    "backups"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.mfw.roadbook",
+  "recommendation": "@recommended"
 }

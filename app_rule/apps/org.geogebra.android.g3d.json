@@ -1,14 +1,28 @@
 {
-    "package": "org.geogebra.android.g3d",
-    "verified": true,
-    "authors": [
-        "gyj1109"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "label": "3D 计算器",
+  "package": "org.geogebra.android.g3d",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1592652369,
+    "version_name": "5.0.587.0",
+    "version_code": 5872
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "GeoGebra",
+        "target": "Documents/GeoGebra",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

@@ -1,16 +1,22 @@
 {
+  "label": "安卓清理君",
   "package": "com.magicalstory.cleaner",
-  "verified": true,
-  "authors": [
-    "WOLFRAZOR"
-  ],
   "last_update": {
-    "timestamp": 1651824779,
-    "version_name": "3.2.5",
-    "version_code": 326
+    "timestamp": 1654093726,
+    "version_name": "3.3.1",
+    "version_code": 332,
+    "target_api": 30,
+    "flags": 11
   },
-  "recommendation": "@unnecessary",
+  "recommendation": "@recommended",
   "behaviors": [
-    "@standard"
-  ]
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
 }

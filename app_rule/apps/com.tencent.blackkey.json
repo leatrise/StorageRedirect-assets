@@ -1,14 +1,28 @@
 {
-    "package": "com.tencent.blackkey",
-    "verified": false,
-    "authors": [
-        "NeverSettle0528"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "MOO音乐",
+  "package": "com.tencent.blackkey",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612074471,
+    "version_name": "1.6.6.6",
+    "version_code": 26
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_music",
+        "source": "blackkey/download",
+        "target": "Music/MOO Music",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

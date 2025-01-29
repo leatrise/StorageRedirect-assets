@@ -1,0 +1,23 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [
+    ".FileManagerRecycler"
+  ],
+  "package": "com.coloros.filemanager",
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659614298,
+    "version_code": 12004000,
+    "version_name": "12.4.0"
+  }
+}

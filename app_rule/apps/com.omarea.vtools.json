@@ -1,14 +1,16 @@
 {
-    "package": "com.omarea.vtools",
-    "verified": true,
-    "authors": [
-        "awresr"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "label": "Scene",
+  "package": "com.omarea.vtools",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1594197705,
+    "version_name": "3.2.17",
+    "version_code": 11255
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

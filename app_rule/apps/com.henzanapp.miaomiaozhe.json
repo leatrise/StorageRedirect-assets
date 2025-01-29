@@ -1,0 +1,36 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 111,
+    "version_name": "2.0.7",
+    "timestamp": 1677553379
+  },
+  "non_standard_files": [
+    "..ccdid",
+    "..ccvid",
+    ".DataStorage",
+    ".UTSystemConfig",
+    "._android.dat",
+    "._driver.dat",
+    ".duid",
+    ".gs_fs0",
+    ".pns",
+    ".tbs",
+    "5A968A4B377F25ED0A1FD3C67B0CEE31",
+    "QQBrowser",
+    "libs",
+    "system"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.henzanapp.miaomiaozhe"
+}

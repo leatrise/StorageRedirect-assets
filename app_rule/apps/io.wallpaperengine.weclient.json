@@ -1,16 +1,22 @@
 {
+  "label": "壁纸引擎",
   "package": "io.wallpaperengine.weclient",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
     "timestamp": 1652371091,
     "version_name": "2.0.42",
-    "version_code": 3078
+    "version_code": 3078,
+    "target_api": 31,
+    "flags": 1
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 30,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "M2105K81AC",
+    "locale": "zh-CN"
+  }
 }

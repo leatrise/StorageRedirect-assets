@@ -1,14 +1,28 @@
 {
-    "package": "com.chaoxing.mobile",
-    "verified": false,
-    "authors": [
-        "XZ-Dev"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "学习通",
+  "package": "com.chaoxing.mobile",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1620906174,
+    "version_name": "5.21",
+    "version_code": 206
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "chaoxing/chaoxingmobile/cloud/temfile",
+        "target": "Download/ChaoXing",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

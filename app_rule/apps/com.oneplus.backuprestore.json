@@ -1,23 +1,28 @@
 {
-    "package": "com.oneplus.backuprestore",
-    "verified": false,
-    "authors": [
-        "Shane"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ],
-    "export_folders": {
-        "data": {
-            "app_backup_0": {
-                "title": "@app_backup",
-                "source": "Backup",
-                "target": "Documents/OPBackup"
-            }
-        }
+  "label": "一加搬家",
+  "package": "com.oneplus.backuprestore",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1615104519,
+    "version_name": "2.6.4.1.210202103753.ff55adf",
+    "version_code": 780
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "opbackup",
+        "target": "Documents/opbackup",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
     }
+  }
 }

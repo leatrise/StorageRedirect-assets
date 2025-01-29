@@ -1,0 +1,28 @@
+{
+  "label": "小星记账",
+  "package": "com.cxincx.xxjz",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1650248482,
+    "version_name": "2.2.1",
+    "version_code": 2210
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "小星记账/数据备份/主动备份",
+        "target": "Documents/小星记账/数据备份/主动备份",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

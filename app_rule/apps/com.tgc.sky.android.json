@@ -1,0 +1,16 @@
+{
+  "label": "Sky",
+  "package": "com.tgc.sky.android",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586258080,
+    "version_name": "0.8.5 (147664)",
+    "version_code": 147664
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

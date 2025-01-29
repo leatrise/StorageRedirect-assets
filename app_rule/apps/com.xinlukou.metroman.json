@@ -1,14 +1,26 @@
 {
-    "package": "com.xinlukou.metroman",
-    "verified": true,
-    "authors": [
-        "galentwww"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".turing.dat",
+    "Android/data/com.tencent.ams",
+    "Tencent",
+    "amap"
+  ],
+  "package": "com.xinlukou.metroman",
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1658639702,
+    "version_code": 20220110,
+    "version_name": "11.4.1"
+  }
 }

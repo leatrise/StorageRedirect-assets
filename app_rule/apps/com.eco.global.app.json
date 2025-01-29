@@ -1,8 +1,8 @@
 {
+  "label": "ECOVACS HOME",
   "package": "com.eco.global.app",
-  "verified": false,
   "authors": [
-    "qifeng2233"
+    ""
   ],
   "last_update": {
     "timestamp": 1643980107,

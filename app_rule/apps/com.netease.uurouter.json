@@ -1,20 +1,24 @@
 {
-  "package": "com.netease.uurouter",
-  "verified": false,
-  "authors": [
-    "Lyuzonggui"
-  ],
-  "last_update": {
-    "timestamp": 1652826255,
-    "version_name": "4.1.0.1210426",
-    "version_code": 410
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 32,
+    "manufacturer": "Google"
   },
-  "recommendation": "@recommended",
+  "verified": false,
   "behaviors": [
     "@abuse"
   ],
   "non_standard_files": [
     ".DataStorage",
     ".UTSystemConfig"
-  ]
+  ],
+  "recommendation": "@recommended",
+  "package": "com.netease.uurouter",
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_name": "4.1.0.1210426",
+    "timestamp": 1652826255,
+    "version_code": 410
+  }
 }

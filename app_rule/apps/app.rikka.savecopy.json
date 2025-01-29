@@ -1,8 +1,7 @@
 {
+  "label": "保存副本",
   "package": "app.rikka.savecopy",
-  "verified": true,
   "authors": [
-    "ChishaWolf",
     "ChishaWolf"
   ],
   "last_update": {

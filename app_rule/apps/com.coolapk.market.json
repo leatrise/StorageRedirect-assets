@@ -1,20 +1,28 @@
 {
-  "package": "com.coolapk.market",
-  "verified": false,
-  "authors": [
-    "xiangyu0"
-  ],
-  "last_update": {
-    "timestamp": 1654774626,
-    "version_name": "12.3.1-beta",
-    "version_code": 2206071
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
   },
-  "recommendation": "@recommended",
+  "verified": false,
   "behaviors": [
     "@abuse"
   ],
+  "recommendation": "@recommended",
   "non_standard_files": [
+    ".DataStorage",
     ".UTSystemConfig",
+    "Android/data/com.snssdk.api.embed",
+    "Android/data/com.tencent.ams",
+    "Pictures/CoolMarket",
     "Tencent"
-  ]
+  ],
+  "package": "com.coolapk.market",
+  "last_update": {
+    "target_api": 25,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659146724,
+    "version_code": 1708181,
+    "version_name": "7.9.7"
+  }
 }

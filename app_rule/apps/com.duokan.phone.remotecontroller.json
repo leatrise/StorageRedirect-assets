@@ -1,16 +1,22 @@
 {
+  "label": "万能遥控",
   "package": "com.duokan.phone.remotecontroller",
-  "verified": true,
-  "authors": [
-    "MBRjun"
-  ],
   "last_update": {
     "timestamp": 1652036417,
     "version_name": "6.2.1",
-    "version_code": 6055
+    "version_code": 6055,
+    "target_api": 29,
+    "flags": 0
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 9 SE",
+    "locale": "zh-CN"
+  }
 }

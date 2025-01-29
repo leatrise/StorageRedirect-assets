@@ -1,16 +1,22 @@
 {
+  "label": "小组件盒子",
   "package": "io.iftech.android.box",
-  "verified": false,
-  "authors": [
-    "WOLFRAZOR"
-  ],
   "last_update": {
     "timestamp": 1652115970,
     "version_name": "1.5.1",
-    "version_code": 100
+    "version_code": 100,
+    "target_api": 29,
+    "flags": 11
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
-  ]
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
 }

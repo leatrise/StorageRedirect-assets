@@ -1,14 +1,24 @@
 {
-    "package": "com.android.messaging",
-    "verified": true,
-    "authors": [
-        "fayeniko"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "device_info": {
+    "api": 33,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.android.messaging",
+  "recommendation": "@recommended",
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1692251904,
+    "version_code": 12200039,
+    "version_name": "12.2.0.0.039r"
+  },
+  "non_standard_files": [
+    ".turing.dat",
+    ".turingdebug"
+  ]
 }

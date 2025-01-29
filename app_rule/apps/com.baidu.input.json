@@ -1,14 +1,28 @@
 {
-    "package": "com.baidu.input",
-    "verified": false,
-    "authors": [
-        "duzhaokun123"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "百度输入法",
+  "package": "com.baidu.input",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1619188829,
+    "version_name": "10.2.5.12",
+    "version_code": 366
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "baidu/ime/skins",
+        "target": "Documents/baidu_ime_skins",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

@@ -1,0 +1,22 @@
+{
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.gsf",
+  "last_update": {
+    "shared_user_id": "com.google.uid.shared",
+    "target_api": 29,
+    "flags": "read_storage, write_storage, android_writeable",
+    "timestamp": 1658230892,
+    "version_code": 29,
+    "version_name": "10"
+  }
+}

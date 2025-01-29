@@ -1,0 +1,22 @@
+{
+  "label": "甜糖",
+  "package": "com.tt.turbo",
+  "last_update": {
+    "timestamp": 1652037452,
+    "version_name": "2.2.1",
+    "version_code": 53,
+    "target_api": 30,
+    "flags": 3
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 9 SE",
+    "locale": "zh-CN"
+  }
+}

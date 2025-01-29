@@ -1,8 +1,8 @@
 {
+  "label": "Joplin",
   "package": "net.cozic.joplin",
-  "verified": true,
   "authors": [
-    "lyaaz"
+    ""
   ],
   "last_update": {
     "timestamp": 1621092417,

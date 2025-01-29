@@ -1,14 +1,28 @@
 {
-    "package": "pro.capture.screenshot",
-    "verified": true,
-    "authors": [
-        "Noah"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "label": "截屏大师",
+  "package": "pro.capture.screenshot",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1611154338,
+    "version_name": "1.6.8.6",
+    "version_code": 400070
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "ScreenMaster",
+        "target": "Pictures/截屏大师",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

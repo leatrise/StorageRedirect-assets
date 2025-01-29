@@ -1,0 +1,16 @@
+{
+  "label": "Adobe Scan",
+  "package": "com.adobe.scan.android",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1592639458,
+    "version_name": "20.06.11-regular",
+    "version_code": 201980206
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

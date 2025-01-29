@@ -1,0 +1,28 @@
+{
+  "label": "搞机助手",
+  "package": "Han.GJZS",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1619188403,
+    "version_name": "2.10.9",
+    "version_code": 2021041203
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "搞机助手",
+        "source": "Han.GJZS",
+        "target": "Documents/Han.GJZS",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

@@ -1,14 +1,16 @@
 {
-    "package": "com.gdctl0000",
-    "verified": false,
-    "authors": [
-        "loveqianool"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "广东电信",
+  "package": "com.gdctl0000",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1600430558,
+    "version_name": "5.1.2",
+    "version_code": 96
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

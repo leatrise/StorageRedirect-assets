@@ -1,21 +1,22 @@
 {
+  "label": "云记",
   "package": "com.jideos.jnotes",
-  "verified": false,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
     "timestamp": 1652365793,
     "version_name": "2.3.1.1",
-    "version_code": 206
+    "version_code": 206,
+    "target_api": 30,
+    "flags": 3
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
-  "non_standard_files": [
-    "Tencent",
-    ".oukdtft",
-    ".turing.dat"
-  ]
+  "device_info": {
+    "api": 30,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "M2105K81AC",
+    "locale": "zh-CN"
+  }
 }

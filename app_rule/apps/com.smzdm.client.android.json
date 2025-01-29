@@ -1,14 +1,21 @@
 {
-    "package": "com.smzdm.client.android",
-    "verified": false,
-    "authors": [
-        "atfa"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 34
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 33,
+    "version_code": 955,
+    "version_name": "10.7.5",
+    "timestamp": 1712320077
+  },
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@unnecessary",
+  "package": "com.smzdm.client.android"
 }

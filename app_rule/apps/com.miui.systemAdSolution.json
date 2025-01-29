@@ -1,11 +1,16 @@
 {
-    "package": "com.miui.systemAdSolution",
-    "verified": false,
-    "authors": [
-        "Vstory"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@not_recommended"
+  "label": "智能服务",
+  "package": "com.miui.systemAdSolution",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1589767093,
+    "version_name": "2019.12.13.09-release",
+    "version_code": 2019121309
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

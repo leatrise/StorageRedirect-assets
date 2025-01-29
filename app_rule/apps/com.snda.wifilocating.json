@@ -1,0 +1,35 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 26,
+    "version_code": 220817,
+    "version_name": "4.8.69",
+    "timestamp": 1661507671
+  },
+  "non_standard_files": [
+    ".oukdtft",
+    ".wkchannel",
+    "Android/.84e3.ncuidw",
+    "Android/.84e3.oneid",
+    "Android/data/com.snssdk.api.embed",
+    "Android/data/com.tencent.ams",
+    "Tencent",
+    "WifiMasterKey",
+    "com.jifen.ac",
+    "com.w.ac",
+    "com.wifi.ac",
+    "com.wifi.op",
+    "libs"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.snda.wifilocating",
+  "recommendation": "@recommended"
+}

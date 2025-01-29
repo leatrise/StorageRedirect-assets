@@ -1,0 +1,16 @@
+{
+  "label": "e福州",
+  "package": "com.digitalchina.mobile.dfhfz1",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595590111,
+    "version_name": "6.4.3",
+    "version_code": 2007091546
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

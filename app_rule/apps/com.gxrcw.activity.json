@@ -1,15 +1,16 @@
 {
-    "package": "com.gxrcw.activity",
-    "authors": [
-        "arcovery"
-    ],
-    "last_update": {
-        "timestamp": 1586258182,
-        "version_name": "4.9",
-        "version_code": 40
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "广西人才网",
+  "package": "com.gxrcw.activity",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586258182,
+    "version_name": "4.9",
+    "version_code": 40
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

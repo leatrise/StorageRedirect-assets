@@ -1,18 +1,28 @@
 {
-    "package": "com.taptap",
-    "verified": false,
-    "authors": [
-        "RiwiHow"
-    ],
-    "last_update": {
-        "timestamp": 1585135489
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        {
-            "zh-CN": "创建 data，Tencent（当使用 QQ 登录时）文件夹。",
-            "zh": "建立 data，Tencent（當使用 QQ 登入時）資料夾。",
-            "en": "Creates data and Tencent (when use QQ to login) folder."
-        }
-    ]
+  "label": "TapTap",
+  "package": "com.taptap",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614944116,
+    "version_name": "2.7.1-mkt.300001",
+    "version_code": 207013000
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "taptapupdate",
+        "target": "Download/Programs",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

@@ -1,0 +1,23 @@
+{
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 28,
+    "manufacturer": "EEBBK"
+  },
+  "verified": false,
+  "recommendation": "@depends_on_situations",
+  "behaviors": [],
+  "non_standard_files": [
+    "7723",
+    "baidu",
+    "tencent"
+  ],
+  "package": "com.upgadata.up7723",
+  "last_update": {
+    "target_api": 28,
+    "flags": "read_storage, write_storage, android_writeable",
+    "version_name": "4.9.7",
+    "timestamp": 1687183065,
+    "version_code": 497
+  }
+}

@@ -1,14 +1,21 @@
 {
-    "package": "xzr.La.systemtoolbox",
-    "verified": false,
-    "authors": [
-        "Zxilly"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "verified": true,
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "last_update": {
+    "flags": "",
+    "target_api": 30,
+    "version_code": 20072700,
+    "version_name": "2.0.0B27",
+    "timestamp": 1673887981
+  },
+  "non_standard_files": [],
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "package": "xzr.La.systemtoolbox"
 }

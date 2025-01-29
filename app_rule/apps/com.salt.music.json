@@ -1,16 +1,21 @@
 {
-  "package": "com.salt.music",
   "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
-  "last_update": {
-    "timestamp": 1665824185,
-    "version_name": "7.10.0",
-    "version_code": 2022101301
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 31,
+    "locale": "zh-CN"
   },
-  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 32,
+    "version_code": 2022053001,
+    "timestamp": 1654142745,
+    "version_name": "7.0.6"
+  },
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "package": "com.salt.music",
+  "recommendation": "@unnecessary"
 }

@@ -1,14 +1,28 @@
 {
-    "package": "net.appcake",
-    "verified": false,
-    "authors": [
-        "Chu2koi"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "ACMarket",
+  "package": "net.appcake",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595214554,
+    "version_name": "4.8.7",
+    "version_code": 487
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@downloaded_files",
+        "source": "acmarket",
+        "target": "Download/ACMarket",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

@@ -1,14 +1,16 @@
 {
-    "package": "com.smile.gifmaker",
-    "verified": false,
-    "authors": [
-        "a2212997715"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "快手",
+  "package": "com.smile.gifmaker",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1633343995,
+    "version_name": "9.8.40.21868",
+    "version_code": 21868
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

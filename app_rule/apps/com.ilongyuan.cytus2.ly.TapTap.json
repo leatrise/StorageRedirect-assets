@@ -1,17 +1,19 @@
 {
-    "package": "com.ilongyuan.cytus2.ly.TapTap",
-    "authors": [
-        "huanruomengyun"
-    ],
-    "last_update": {
-        "timestamp": 1585129810
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        {
-            "zh-CN": "建立 longyuan 等文件夹。",
-            "zh": "建立 longyuan 等資料夾。",
-            "en": "Creates longyuan and other folders."
-        }
-    ]
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 26,
+    "version_code": 5092,
+    "version_name": "5.0.11",
+    "timestamp": 1703553283
+  },
+  "behaviors": [],
+  "non_standard_files": [],
+  "recommendation": "@cause_problems",
+  "package": "com.ilongyuan.cytus2.ly.TapTap"
 }

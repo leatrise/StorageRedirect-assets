@@ -1,16 +1,22 @@
 {
+  "label": "MIUI 主题工具",
   "package": "org.hydev.new.themeapplytools",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
     "timestamp": 1652365476,
     "version_name": "2.6.2",
-    "version_code": 25
+    "version_code": 25,
+    "target_api": 30,
+    "flags": 3
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 30,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "M2105K81AC",
+    "locale": "zh-CN"
+  }
 }

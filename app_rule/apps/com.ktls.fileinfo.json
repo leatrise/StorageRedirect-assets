@@ -1,14 +1,22 @@
 {
-    "package": "com.ktls.fileinfo",
-    "verified": true,
-    "authors": [
-        "yiheng0"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "device_info": {
+    "api": 30,
+    "manufacturer": "motorola",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": false,
+  "behaviors": [],
+  "recommendation": "@cause_problems",
+  "non_standard_files": [
+    "Android/data/.um",
+    "Android/obj"
+  ],
+  "package": "com.ktls.fileinfo",
+  "last_update": {
+    "target_api": 26,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659955494,
+    "version_code": 213,
+    "version_name": "4.14.3"
+  }
 }

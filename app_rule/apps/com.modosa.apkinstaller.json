@@ -1,16 +1,22 @@
 {
+  "label": "安装狮",
   "package": "com.modosa.apkinstaller",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
     "timestamp": 1652504047,
     "version_name": "3.7.5",
-    "version_code": 42
+    "version_code": 42,
+    "target_api": 29,
+    "flags": 3
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "2106118C",
+    "locale": "zh-CN"
+  }
 }

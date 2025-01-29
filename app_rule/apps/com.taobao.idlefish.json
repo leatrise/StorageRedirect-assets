@@ -1,15 +1,16 @@
 {
-    "package": "com.taobao.idlefish",
-    "verified": false,
-    "authors": [
-        "simonsmh",
-        "Shane"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "闲鱼",
+  "package": "com.taobao.idlefish",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1646361440,
+    "version_name": "7.3.91",
+    "version_code": 264
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

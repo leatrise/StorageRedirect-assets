@@ -1,23 +1,27 @@
 {
-  "package": "com.youdao.dict",
-  "verified": false,
-  "authors": [
-    "xiangyu0"
-  ],
-  "last_update": {
-    "timestamp": 1657022211,
-    "version_name": "9.2.13",
-    "version_code": 9021300
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
   },
-  "recommendation": "@recommended",
+  "verified": false,
   "behaviors": [
     "@abuse"
   ],
+  "recommendation": "@recommended",
   "non_standard_files": [
     ".DataStorage",
     ".UTSystemConfig",
     "Android/obj",
     "Tencent",
     "Youdao"
-  ]
+  ],
+  "package": "com.youdao.dict",
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage, write_storage, android_writeable",
+    "timestamp": 1657022211,
+    "version_code": 9021300,
+    "version_name": "9.2.13"
+  }
 }

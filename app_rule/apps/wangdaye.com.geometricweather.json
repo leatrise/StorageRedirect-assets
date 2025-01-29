@@ -1,17 +1,21 @@
 {
-  "package": "wangdaye.com.geometricweather",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
-  "last_update": {
-    "timestamp": 1657186896,
-    "version_name": "3.100_pub",
-    "version_code": 30100
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
   },
-  "recommendation": "@unnecessary",
+  "verified": true,
   "behaviors": [
     "@standard"
   ],
-  "non_standard_files": []
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "wangdaye.com.geometricweather",
+  "last_update": {
+    "target_api": 32,
+    "flags": "read_storage",
+    "timestamp": 1657186896,
+    "version_code": 30100,
+    "version_name": "3.100_pub"
+  }
 }

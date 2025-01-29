@@ -1,8 +1,8 @@
 {
+  "label": "翼课学生",
   "package": "com.ekwing.students",
-  "verified": false,
   "authors": [
-    "Kou-awa"
+    ""
   ],
   "last_update": {
     "timestamp": 1643462740,

@@ -1,14 +1,25 @@
 {
-    "package": "com.tratao.xcurrency",
-    "verified": true,
-    "authors": [
-        "xhn16729"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "device_info": {
+    "api": 30,
+    "manufacturer": "motorola",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    "Android/obj"
+  ],
+  "package": "com.tratao.xcurrency",
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659955322,
+    "version_code": 50395,
+    "version_name": "5.7.4.1"
+  }
 }

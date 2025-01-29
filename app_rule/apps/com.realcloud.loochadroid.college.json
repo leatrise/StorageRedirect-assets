@@ -1,18 +1,24 @@
 {
+  "label": "U掌大",
   "package": "com.realcloud.loochadroid.college",
-  "verified": false,
-  "authors": [
-    "wordlesswind"
-  ],
   "last_update": {
     "timestamp": 1654414328,
     "version_name": "6.7.4",
-    "version_code": 142
+    "version_code": 142,
+    "target_api": 27,
+    "flags": 11
   },
   "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "OnePlus",
+    "brand": "OnePlus",
+    "model": "ONEPLUS A3010",
+    "locale": "zh-CN"
+  },
   "export_folders": {
     "data": {
       "0": {
@@ -21,8 +27,7 @@
         "target": "Pictures/Loocha",
         "call_media_scan": true,
         "add_to_downloads": false,
-        "allow_child": false,
-        "allow_temp": false
+        "allow_child": false
       },
       "1": {
         "title": "@saved_videos",
@@ -30,8 +35,7 @@
         "target": "Movies/Loocha",
         "call_media_scan": true,
         "add_to_downloads": false,
-        "allow_child": false,
-        "allow_temp": false
+        "allow_child": false
       },
       "2": {
         "title": "@saved_files",
@@ -39,8 +43,7 @@
         "target": "Download/Loocha",
         "call_media_scan": false,
         "add_to_downloads": false,
-        "allow_child": false,
-        "allow_temp": false
+        "allow_child": false
       }
     }
   }

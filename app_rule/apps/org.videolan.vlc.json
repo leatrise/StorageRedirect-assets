@@ -1,11 +1,16 @@
 {
-    "package": "org.videolan.vlc",
-    "verified": false,
-    "authors": [
-        "kotomei"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@not_recommended"
+  "label": "VLC",
+  "package": "org.videolan.vlc",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1588076227,
+    "version_name": "3.2.9",
+    "version_code": 13020907
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

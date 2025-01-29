@@ -1,16 +1,22 @@
 {
+  "label": "WooBox For MIUI",
   "package": "com.lt2333.simplicitytools",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
     "timestamp": 1652313748,
     "version_name": "1.6.5",
-    "version_code": 66
+    "version_code": 66,
+    "target_api": 32,
+    "flags": 0
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "2106118C",
+    "locale": "zh-CN"
+  }
 }

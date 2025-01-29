@@ -1,14 +1,21 @@
 {
-    "package": "gov.anzong.androidnga",
-    "verified": true,
-    "authors": [
-        "Anytinz"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "verified": false,
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "en-US",
+    "api": 31
+  },
+  "non_standard_files": [
+    "Android/obj"
+  ],
+  "recommendation": "@depends_on_situations",
+  "behaviors": [],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 31,
+    "version_code": 3085,
+    "version_name": "3.8.5",
+    "timestamp": 1681876370
+  },
+  "package": "gov.anzong.androidnga"
 }

@@ -1,0 +1,16 @@
+{
+  "label": "App Market",
+  "package": "com.heytap.market",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1624288217,
+    "version_name": "7.11.8",
+    "version_code": 71108
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,14 +1,16 @@
 {
-    "package": "com.z28j.feel",
-    "verified": false,
-    "authors": [
-        "faceair"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "神奇浏览器",
+  "package": "com.z28j.feel",
+  "authors": [
+    "kamen"
+  ],
+  "last_update": {
+    "timestamp": 1587282077,
+    "version_name": "0.9.8.4",
+    "version_code": 984
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

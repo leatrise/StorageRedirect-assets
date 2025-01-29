@@ -1,14 +1,16 @@
 {
-    "package": "com.tencent.ig",
-    "verified": false,
-    "authors": [
-        "dayfly5"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "PUBG MOBILE",
+  "package": "com.tencent.ig",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1645323669,
+    "version_name": "1.8.0",
+    "version_code": 15900
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

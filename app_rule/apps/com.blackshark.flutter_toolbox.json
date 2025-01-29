@@ -1,8 +1,8 @@
 {
+  "label": "黑鲨装备箱",
   "package": "com.blackshark.flutter_toolbox",
-  "verified": false,
   "authors": [
-    "WOLFRAZOR"
+    ""
   ],
   "last_update": {
     "timestamp": 1651829333,

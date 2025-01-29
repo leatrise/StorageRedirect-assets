@@ -1,15 +1,38 @@
 {
-    "package": "yyc.xk.core",
-    "verified": false,
-    "authors": [
-        "ChemCodex",
-        "Hexer"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 31,
+    "locale": "zh-CN"
+  },
+  "non_standard_files": [
+    "ByteDownload",
+    "Tencent",
+    "星空视频壁纸"
+  ],
+  "accessible_folders": {
+    "data": {
+      "6e081b80-e3df-11ec-2f88-85f7dd868ce9": {
+        "target_package": "yyc.xk.core",
+        "source_package": "yyc.xk",
+        "paths": [
+          "星空视频壁纸",
+          "Tencent",
+          "ByteDownload"
+        ]
+      }
+    }
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage, android_writeable",
+    "target_api": 26,
+    "version_code": 20210915,
+    "timestamp": 1654331180,
+    "version_name": "5.0.3"
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "yyc.xk.core",
+  "recommendation": "@recommended"
 }

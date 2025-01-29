@@ -1,14 +1,28 @@
 {
-    "package": "net.xmind.doughnut",
-    "verified": false,
-    "authors": [
-        "chisakaw"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "XMind思维导图",
+  "package": "net.xmind.doughnut",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1593852833,
+    "version_name": "1.4.8",
+    "version_code": 50
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "思维导图",
+        "source": "XMind/workbook",
+        "target": "Documents/XMind",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
 }

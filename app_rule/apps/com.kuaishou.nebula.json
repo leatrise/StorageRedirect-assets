@@ -1,0 +1,26 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 5015,
+    "version_name": "11.0.11.5015",
+    "timestamp": 1675898620
+  },
+  "non_standard_files": [
+    ".com.kuaishou.nebula",
+    ".skvec",
+    "Android/.Android_819ee91f8d8cc1bb",
+    "Android/.Android_f0fcd2bde58f4ae8"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.kuaishou.nebula"
+}

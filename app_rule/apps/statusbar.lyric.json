@@ -1,16 +1,22 @@
 {
+  "label": "墨?状态栏歌词",
   "package": "statusbar.lyric",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
     "timestamp": 1652314269,
     "version_name": "5.2.5",
-    "version_code": 157
+    "version_code": 157,
+    "target_api": 32,
+    "flags": 0
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "2106118C",
+    "locale": "zh-CN"
+  }
 }

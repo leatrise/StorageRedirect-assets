@@ -1,14 +1,28 @@
 {
-    "package": "com.flyersoft.moonreaderp",
-    "verified": false,
-    "authors": [
-        "ariaoftime"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "静读天下专业版",
+  "package": "com.flyersoft.moonreaderp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1620106506,
+    "version_name": "6.6",
+    "version_code": 606001
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "Books",
+        "target": "Download/Books",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

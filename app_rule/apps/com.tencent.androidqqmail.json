@@ -1,14 +1,16 @@
 {
-    "package": "com.tencent.androidqqmail",
-    "verified": false,
-    "authors": [
-        "Sherlock-Holo"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "QQ邮箱",
+  "package": "com.tencent.androidqqmail",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614396801,
+    "version_name": "6.1.7",
+    "version_code": 10147999
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

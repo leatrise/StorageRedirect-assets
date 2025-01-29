@@ -1,14 +1,16 @@
 {
-    "package": "com.dianping.v1",
-    "verified": false,
-    "authors": [
-        "simonsmh"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "大众点评",
+  "package": "com.dianping.v1",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1651419612,
+    "version_name": "10.60.3",
+    "version_code": 106003
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

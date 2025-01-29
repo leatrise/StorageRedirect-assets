@@ -1,15 +1,52 @@
 {
+  "label": "Telegram",
   "package": "org.telegram.messenger",
-  "verified": true,
   "authors": [
-    "DEVELOPER"
+    ""
   ],
   "last_update": {
-    "timestamp": 1652028520,
-    "version_code": 0
+    "timestamp": 1623117093,
+    "version_name": "7.7.2",
+    "version_code": 22937
   },
-  "recommendation": "@unnecessary",
+  "recommendation": "@recommended",
   "behaviors": [
-    "@standard"
-  ]
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_music",
+        "source": "Telegram/Telegram Audio",
+        "target": "Music/Telegram",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      },
+      "1": {
+        "summary": "@saved_files",
+        "source": "Telegram/Telegram Documents",
+        "target": "Download/Telegram",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      },
+      "2": {
+        "summary": "@saved_pictures",
+        "source": "Telegram/Telegram Images",
+        "target": "Pictures/Telegram",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      },
+      "3": {
+        "summary": "@saved_videos",
+        "source": "Telegram/Telegram Video",
+        "target": "Movies/Telegram",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

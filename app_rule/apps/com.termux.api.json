@@ -1,8 +1,8 @@
 {
+  "label": "Termux:API",
   "package": "com.termux.api",
-  "verified": true,
   "authors": [
-    "lyaaz"
+    ""
   ],
   "last_update": {
     "timestamp": 1621092565,

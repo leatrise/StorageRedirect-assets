@@ -1,14 +1,28 @@
 {
-    "package": "com.alibaba.wireless",
-    "verified": false,
-    "authors": [
-        "efsg"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "阿里巴巴",
+  "package": "com.alibaba.wireless",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614075136,
+    "version_name": "9.11.2.0",
+    "version_code": 2131020401
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_pictures",
+        "source": "1688SaveImage",
+        "target": "Pictures/1688",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

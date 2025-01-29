@@ -1,25 +1,28 @@
 {
-    "verified": false,
-    "authors": [
-        "Thirteendx"
-    ],
-    "last_update": {
-      "flags": "read_storage, write_storage",
-      "target_api": 30,
-      "version_code": 9287,
-      "version_name": "8.0.34.01172",
-      "timestamp": 1678605558
-    },
-    "non_standard_files": [
-      ".andorid",
-      "Documents/.thumbcache_001",
-      "Download/.exmu-cfg1.data",
-      "Download/.thumbcache_001",
-      "libs"
-    ],
-    "behaviors": [
-      "@abuse"
-    ],
-    "recommendation": "@recommended",
-    "package": "com.hupu.games"
+  "label": "虎扑",
+  "package": "com.hupu.games",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614777506,
+    "version_name": "7.5.32.12809",
+    "version_code": 7979
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_pictures",
+        "source": "hupu/games/image/hupuImage",
+        "target": "Pictures/Hupu",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
   }
+}

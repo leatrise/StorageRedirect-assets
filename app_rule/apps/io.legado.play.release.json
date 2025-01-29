@@ -1,16 +1,22 @@
 {
+  "label": "阅读Pro",
   "package": "io.legado.play.release",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
   "last_update": {
     "timestamp": 1652363649,
     "version_name": "3.22.051215",
-    "version_code": 11368
+    "version_code": 11368,
+    "target_api": 32,
+    "flags": 3
   },
   "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
-  ]
+  ],
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "2106118C",
+    "locale": "zh-CN"
+  }
 }

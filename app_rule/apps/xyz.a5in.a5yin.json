@@ -1,0 +1,28 @@
+{
+  "label": "五音助手",
+  "package": "xyz.a5in.a5yin",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1609769903,
+    "version_name": "2.6.0",
+    "version_code": 38
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@downloaded_music",
+        "source": "Download/xyz.a5in.a5yin",
+        "target": "Download/五音助手",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

@@ -1,14 +1,16 @@
 {
-    "package": "nutstore.android",
-    "verified": false,
-    "authors": [
-        "atfa"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "坚果云",
+  "package": "nutstore.android",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1589793979,
+    "version_name": "4.19.3",
+    "version_code": 123
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

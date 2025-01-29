@@ -1,14 +1,27 @@
 {
     "package": "com.wolfram.android.alpha",
-    "verified": true,
+    "verified": false,
     "authors": [
-        "simonsmh"
+        "simonsmh",
+        "fengberd"
     ],
     "last_update": {
-        "timestamp": 1573909761
+        "timestamp": 1577248548
     },
-    "recommendation": "@unnecessary",
+    "recommendation": "@recommended",
     "behaviors": [
-        "@standard"
-    ]
+        "@abuse"
+    ],
+    "export_folders": {
+        "data": {
+            "saved_pictures_0": {
+                "title": "@saved_pictures",
+                "source": "WolframAlpha",
+                "target": "Pictures/WolframAlpha",
+                "call_media_scan": true,
+                "add_to_downloads": false,
+                "allow_child": false
+            }
+        }
+    }
 }

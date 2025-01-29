@@ -1,0 +1,23 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 28,
+    "version_code": 563,
+    "version_name": "5.6.3",
+    "timestamp": 1675782852
+  },
+  "non_standard_files": [
+    "dnschache"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.lcw.daodaopic"
+}

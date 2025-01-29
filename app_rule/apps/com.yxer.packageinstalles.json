@@ -1,0 +1,22 @@
+{
+  "device_info": {
+    "locale": "zh-Hans-CN",
+    "api": 33,
+    "manufacturer": "Xiaomi"
+  },
+  "verified": true,
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "package": "com.yxer.packageinstalles",
+  "last_update": {
+    "target_api": 30,
+    "shared_user_id": "com.yxer.uid.shared",
+    "flags": "read_storage, write_storage",
+    "version_name": "2.6.9-beta",
+    "timestamp": 1690366042,
+    "version_code": 330
+  }
+}

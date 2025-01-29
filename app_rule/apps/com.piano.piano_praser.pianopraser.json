@@ -1,20 +1,24 @@
 {
-  "package": "com.piano.piano_praser.pianopraser",
   "verified": false,
-  "authors": [
-    "SakuraKeke"
-  ],
-  "last_update": {
-    "timestamp": 1655221133,
-    "version_name": "16.1.4",
-    "version_code": 61
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 31,
+    "manufacturer": "Xiaomi"
   },
-  "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
+  "recommendation": "@recommended",
+  "package": "com.piano.piano_praser.pianopraser",
   "non_standard_files": [
     ".DataStorage",
     ".UTSystemConfig"
-  ]
+  ],
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "version_name": "16.1.4",
+    "timestamp": 1655221133,
+    "version_code": 61
+  }
 }

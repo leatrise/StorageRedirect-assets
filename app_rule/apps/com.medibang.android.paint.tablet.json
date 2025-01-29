@@ -1,0 +1,28 @@
+{
+  "label": "MediBang Paint",
+  "package": "com.medibang.android.paint.tablet",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595802448,
+    "version_name": "19.1",
+    "version_code": 93
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "MediBangPaint",
+        "target": "Pictures/MediBangPaint",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
+  "label": "pixiv",
   "package": "jp.pxv.android",
-  "verified": true,
   "authors": [
-    "lyaaz"
+    ""
   ],
   "last_update": {
     "timestamp": 1621092899,

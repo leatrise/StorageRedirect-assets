@@ -1,14 +1,28 @@
 {
-    "package": "com.viewblocker.jrsen",
-    "verified": true,
-    "authors": [
-        "zhxhwyzh14"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "label": "上帝模式",
+  "package": "com.viewblocker.jrsen",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1613314478,
+    "version_name": "2.7.10",
+    "version_code": 21
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "GodMode",
+        "target": "Documents/godmode",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
 }

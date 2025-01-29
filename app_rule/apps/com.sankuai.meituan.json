@@ -1,15 +1,16 @@
 {
-    "package": "com.sankuai.meituan",
-    "verified": false,
-    "authors": [
-        "frencis107",
-        "sakuyamaij"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "美团",
+  "package": "com.sankuai.meituan",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1600430433,
+    "version_name": "11.2.205",
+    "version_code": 1100020205
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
 }

@@ -1,16 +1,23 @@
 {
-  "package": "com.mi.health",
-  "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
-  "last_update": {
-    "timestamp": 1652362773,
-    "version_name": "3.3.1",
-    "version_code": 303001
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
   },
-  "recommendation": "@unnecessary",
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 217001,
+    "version_name": "2.17.1",
+    "timestamp": 1676375039
+  },
+  "non_standard_files": [
+    "amap"
+  ],
   "behaviors": [
-    "@standard"
-  ]
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.mi.health"
 }

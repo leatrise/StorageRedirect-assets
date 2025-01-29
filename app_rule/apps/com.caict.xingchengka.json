@@ -1,8 +1,8 @@
 {
+  "label": "通信行程卡",
   "package": "com.caict.xingchengka",
-  "verified": false,
   "authors": [
-    "WOLFRAZOR"
+    ""
   ],
   "last_update": {
     "timestamp": 1644544331,

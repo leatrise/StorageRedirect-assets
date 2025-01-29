@@ -1,16 +1,24 @@
 {
-  "label": "小米文档查看器（WPS定制）",
-  "package": "cn.wps.moffice_eng.xiaomi.lite",
-  "authors": [
-    "tehcneko"
-  ],
-  "last_update": {
-    "timestamp": 1634480772,
-    "version_name": "2.3.7",
-    "version_code": 237
+  "verified": false,
+  "device_info": {
+    "locale": "zh-Hans-CN",
+    "api": 31,
+    "manufacturer": "Xiaomi"
   },
   "recommendation": "@recommended",
+  "package": "cn.wps.moffice_eng.xiaomi.lite",
   "behaviors": [
     "@abuse"
-  ]
+  ],
+  "non_standard_files": [
+    "Download/导PDF",
+    "Fonts"
+  ],
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage, write_storage",
+    "version_name": "2.6.0",
+    "timestamp": 1663807403,
+    "version_code": 260
+  }
 }

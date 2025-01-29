@@ -1,0 +1,28 @@
+{
+  "label": "QQ音乐简洁版",
+  "package": "com.tencent.qqmusiclite",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1629698657,
+    "version_name": "1.1.2",
+    "version_code": 2
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "qqmusiclite/song",
+        "target": "Music/QQMusicLite",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

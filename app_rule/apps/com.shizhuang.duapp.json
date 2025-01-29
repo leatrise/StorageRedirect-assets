@@ -1,18 +1,10 @@
 {
-  "package": "com.shizhuang.duapp",
   "verified": false,
-  "authors": [
-    "xiangyu0"
-  ],
-  "last_update": {
-    "timestamp": 1654772929,
-    "version_name": "4.94.0",
-    "version_code": 486
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 31,
+    "locale": "zh-CN"
   },
-  "recommendation": "@recommended",
-  "behaviors": [
-    "@abuse"
-  ],
   "non_standard_files": [
     ".UTSystemConfig",
     ".thumbcache_idx_001",
@@ -22,5 +14,17 @@
     "Pictures/.thumbcache_idx_001",
     "Pictures/du",
     "Tencent"
-  ]
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage, android_writeable",
+    "target_api": 29,
+    "version_code": 486,
+    "timestamp": 1654772929,
+    "version_name": "4.94.0"
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.shizhuang.duapp",
+  "recommendation": "@recommended"
 }

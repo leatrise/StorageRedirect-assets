@@ -1,8 +1,8 @@
 {
+  "label": "录音机",
   "package": "com.sec.android.app.voicenote",
-  "verified": true,
   "authors": [
-    "JohnZhang1810"
+    ""
   ],
   "last_update": {
     "timestamp": 1649768588,

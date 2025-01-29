@@ -1,14 +1,28 @@
 {
-    "package": "com.ss.android.ugc.aweme",
-    "verified": false,
-    "authors": [
-        "lifansama"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "抖音",
+  "package": "com.ss.android.ugc.aweme",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1610509659,
+    "version_name": "14.3.0",
+    "version_code": 140301
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_videos",
+        "source": "ByteDownload",
+        "target": "DCIM/Douyin",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

@@ -1,14 +1,22 @@
 {
-    "package": "com.cndatacom.campus.cdccportalgd",
-    "verified": false,
-    "authors": [
-        "wordlesswind"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "广东校园",
+  "package": "com.cndatacom.campus.cdccportalgd",
+  "last_update": {
+    "timestamp": 1654435722,
+    "version_name": "2.3.2074.21042501",
+    "version_code": 2074,
+    "target_api": 24,
+    "flags": 11
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "OnePlus",
+    "brand": "OnePlus",
+    "model": "ONEPLUS A3010",
+    "locale": "zh-CN"
+  }
 }

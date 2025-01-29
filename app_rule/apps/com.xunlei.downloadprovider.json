@@ -1,14 +1,30 @@
 {
-    "package": "com.xunlei.downloadprovider",
-    "verified": false,
-    "authors": [
-        "geng9301"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".vivo",
+    "Android/data/pushSdk",
+    "Documents/ThunderdownLLI",
+    "Download/com.xunlei.downloadprovider",
+    "Tencent",
+    "lucky_prize_sdk_log"
+  ],
+  "package": "com.xunlei.downloadprovider",
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage, android_writeable",
+    "timestamp": 1656732970,
+    "version_code": 14084,
+    "version_name": "7.47.0.8084"
+  }
 }

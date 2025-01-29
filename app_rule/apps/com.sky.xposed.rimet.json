@@ -1,8 +1,8 @@
 {
+  "label": "钉钉助手",
   "package": "com.sky.xposed.rimet",
-  "verified": true,
   "authors": [
-    "Fe3O4-Git"
+    ""
   ],
   "last_update": {
     "timestamp": 1612015050,

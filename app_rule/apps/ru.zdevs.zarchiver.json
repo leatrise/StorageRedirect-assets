@@ -1,15 +1,16 @@
 {
-    "package": "ru.zdevs.zarchiver",
-    "verified": true,
-    "authors": [
-        "simonsmh",
-        "david082321"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "label": "ZArchiver",
+  "package": "ru.zdevs.zarchiver",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1635317050,
+    "version_name": "628.74.42",
+    "version_code": 6287442
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
 }

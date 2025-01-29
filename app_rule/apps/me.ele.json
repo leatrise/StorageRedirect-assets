@@ -1,14 +1,28 @@
 {
-    "package": "me.ele",
-    "verified": false,
-    "authors": [
-        "simonsmh"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "饿了么",
+  "package": "me.ele",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1592281773,
+    "version_name": "9.0.5",
+    "version_code": 424
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.taobao.taobao",
+        "target": "me.ele",
+        "paths": [
+          ".gs_fs0",
+          ".gs_fs3"
+        ]
+      }
+    }
+  }
 }

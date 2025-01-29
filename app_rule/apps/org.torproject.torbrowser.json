@@ -1,8 +1,8 @@
 {
+  "label": "Tor Browser",
   "package": "org.torproject.torbrowser",
-  "verified": true,
   "authors": [
-    "foxscore"
+    ""
   ],
   "last_update": {
     "timestamp": 1603755839,

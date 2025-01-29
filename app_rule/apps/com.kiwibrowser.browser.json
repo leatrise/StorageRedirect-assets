@@ -1,8 +1,8 @@
 {
+  "label": "Kiwi Browser",
   "package": "com.kiwibrowser.browser",
-  "verified": true,
   "authors": [
-    "uLcdia"
+    ""
   ],
   "last_update": {
     "timestamp": 1641611901,

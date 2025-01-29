@@ -1,0 +1,16 @@
+{
+  "label": "嘀嘀动画",
+  "package": "com.zzjdev.didi",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595327781,
+    "version_name": "5.0.3",
+    "version_code": 1112
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

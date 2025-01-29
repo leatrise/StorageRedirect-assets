@@ -1,0 +1,25 @@
+{
+  "verified": false,
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 33,
+    "manufacturer": "OnePlus"
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".turing.dat",
+    "1697364192275",
+    "1697368856917"
+  ],
+  "package": "com.coloros.phonemanager",
+  "recommendation": "@recommended",
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 33,
+    "version_name": "13.10.3",
+    "timestamp": 1697416807,
+    "version_code": 13010003
+  }
+}

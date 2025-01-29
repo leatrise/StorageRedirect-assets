@@ -1,16 +1,27 @@
 {
+  "label": "Telegram Beta",
   "package": "org.telegram.messenger.beta",
-  "verified": true,
   "authors": [
-    "MBRjun"
+    ""
   ],
   "last_update": {
-    "timestamp": 1652034234,
-    "version_name": "8.7.2",
-    "version_code": 2633
+    "timestamp": 1589881653,
+    "version_name": "6.1.1",
+    "version_code": 19479
   },
-  "recommendation": "@unnecessary",
+  "recommendation": "@recommended",
   "behaviors": [
-    "@standard"
-  ]
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "source": "Telegram",
+        "target": "Download/Telegram Beta",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
 }

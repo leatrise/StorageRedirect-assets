@@ -1,18 +1,15 @@
 {
-  "package": "com.android.nineton.elfinapp",
   "verified": false,
-  "authors": [
-    "SakuraKeke"
-  ],
-  "last_update": {
-    "timestamp": 1655221711,
-    "version_name": "6.3.3",
-    "version_code": 63003
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 31,
+    "manufacturer": "Xiaomi"
   },
-  "recommendation": "@recommended",
   "behaviors": [
     "@abuse"
   ],
+  "recommendation": "@recommended",
+  "package": "com.android.nineton.elfinapp",
   "non_standard_files": [
     ".DataStorage",
     ".UTSystemConfig",
@@ -23,5 +20,12 @@
     "ByteDownload",
     "Tencent",
     "backups"
-  ]
+  ],
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "version_name": "6.3.3",
+    "timestamp": 1655221711,
+    "version_code": 63003
+  }
 }

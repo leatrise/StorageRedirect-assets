@@ -1,0 +1,28 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 28,
+    "version_code": 1330,
+    "version_name": "2.5.13",
+    "timestamp": 1661507772
+  },
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".turing.dat",
+    "Android/data/com.tencent.ams",
+    "Android/obj",
+    "Tencent"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.netease.android.cloudgame",
+  "recommendation": "@recommended"
+}

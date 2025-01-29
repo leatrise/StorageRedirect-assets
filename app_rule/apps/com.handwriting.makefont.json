@@ -1,0 +1,28 @@
+{
+  "label": "手迹造字",
+  "package": "com.handwriting.makefont",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612055199,
+    "version_name": "5.4.9",
+    "version_code": 549
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "handwriting/product/localFont",
+        "target": "Documents/手迹造字",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

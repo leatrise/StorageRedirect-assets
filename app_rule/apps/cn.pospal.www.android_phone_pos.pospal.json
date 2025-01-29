@@ -1,8 +1,8 @@
 {
+  "label": "银豹移动收银",
   "package": "cn.pospal.www.android_phone_pos.pospal",
-  "verified": false,
   "authors": [
-    "sanlunxue"
+    ""
   ],
   "last_update": {
     "timestamp": 1644059327,

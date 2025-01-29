@@ -1,0 +1,16 @@
+{
+  "label": "公主连结R",
+  "package": "com.bilibili.priconne",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1587566761,
+    "version_name": "2.4.6",
+    "version_code": 28
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

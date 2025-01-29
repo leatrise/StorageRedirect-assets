@@ -1,17 +1,21 @@
 {
-  "package": "com.x1y9.probe",
   "verified": true,
-  "authors": [
-    "ArthurCyy"
-  ],
-  "last_update": {
-    "timestamp": 1654871782,
-    "version_name": "2.7.5",
-    "version_code": 20705
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 31,
+    "manufacturer": "Xiaomi"
   },
-  "recommendation": "@unnecessary",
   "behaviors": [
     "@standard"
   ],
-  "non_standard_files": []
+  "recommendation": "@unnecessary",
+  "package": "com.x1y9.probe",
+  "non_standard_files": [],
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "version_name": "2.7.5",
+    "timestamp": 1654871782,
+    "version_code": 20705
+  }
 }

@@ -1,14 +1,27 @@
 {
-    "package": "com.facebook.katana",
-    "verified": false,
-    "authors": [
-        "Chu2koi"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@recommended",
-    "behaviors": [
-        "@abuse"
-    ]
+  "label": "Facebook",
+  "package": "com.facebook.katana",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1591001092,
+    "version_name": "272.0.0.50.125",
+    "version_code": 216845599
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "source": "DCIM/Facebook",
+        "target": "Pictures/Facebook",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
 }

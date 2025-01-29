@@ -1,14 +1,23 @@
 {
-    "package": "com.spotify.music",
-    "verified": true,
-    "authors": [
-        "YHNdnzj"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "verified": false,
+  "device_info": {
+    "manufacturer": "nubia",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 33,
+    "version_code": 98307563,
+    "version_name": "8.8.18.509",
+    "timestamp": 1679445868
+  },
+  "non_standard_files": [
+    "tencent"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.spotify.music"
 }

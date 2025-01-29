@@ -1,14 +1,24 @@
 {
-    "package": "com.android.mms",
-    "verified": true,
-    "authors": [
-        "Shane"
-    ],
-    "last_update": {
-        "timestamp": 1573909761
-    },
-    "recommendation": "@unnecessary",
-    "behaviors": [
-        "@standard"
-    ]
+  "device_info": {
+    "api": 33,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "recommendation": "@recommended",
+  "package": "com.android.mms",
+  "non_standard_files": [
+    ".CMRcs",
+    ".Rcs"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1679359040,
+    "version_code": 14020000,
+    "version_name": "14.2.0.0"
+  }
 }
