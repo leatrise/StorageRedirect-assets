@@ -1,0 +1,25 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    "Symusic.db",
+    "Symusic.db-journal",
+    "搜云音乐"
+  ],
+  "package": "com.Sy.music",
+  "last_update": {
+    "target_api": 25,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1662202225,
+    "version_code": 2,
+    "version_name": "2.85"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "label": "贝壳找房",
+  "package": "com.lianjia.beike",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638521361,
+    "version_name": "2.69.0",
+    "version_code": 2690200
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

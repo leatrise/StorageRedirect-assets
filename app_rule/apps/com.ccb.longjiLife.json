@@ -1,0 +1,27 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_code": 55,
+    "version_name": "2.1.6",
+    "timestamp": 1711037932
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Android/obj",
+    "cache",
+    "sessiondll",
+    "tencent",
+    "umeng_cache"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.ccb.longjiLife"
+}

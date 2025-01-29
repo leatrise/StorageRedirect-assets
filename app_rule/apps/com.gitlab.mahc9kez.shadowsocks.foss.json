@@ -1,0 +1,16 @@
+{
+  "label": "Shadowsocks FOSS",
+  "package": "com.gitlab.mahc9kez.shadowsocks.foss",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1588074623,
+    "version_name": "5.0.6",
+    "version_code": 50006000
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

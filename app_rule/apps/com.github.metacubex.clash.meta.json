@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 31,
+    "manufacturer": "Xiaomi"
+  },
+  "verified": true,
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "package": "com.github.metacubex.clash.meta",
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage",
+    "version_name": "2.8.2.Meta-Alpha",
+    "timestamp": 1684808350,
+    "version_code": 208002
+  }
+}

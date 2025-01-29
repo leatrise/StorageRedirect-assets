@@ -1,0 +1,28 @@
+{
+  "label": "平安好车主",
+  "package": "com.pingan.carowner",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1631370497,
+    "version_name": "4.21.3",
+    "version_code": 4069
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "保存的保单",
+        "source": "carowner",
+        "target": "Pictures/pingan",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

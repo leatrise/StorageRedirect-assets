@@ -1,0 +1,16 @@
+{
+  "label": "无忧行",
+  "package": "com.cmi.jegotrip",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1597921244,
+    "version_name": "6.5.0",
+    "version_code": 650
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "卡车之家",
+  "package": "com.truckhome.bbs",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1623347651,
+    "version_name": "7.7.1",
+    "version_code": 251
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

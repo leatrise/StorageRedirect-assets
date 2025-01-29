@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.documentsui",
+  "last_update": {
+    "target_api": 30,
+    "flags": "",
+    "timestamp": 1656217207,
+    "version_code": 310851020,
+    "version_name": "aml_doc_310851020"
+  }
+}

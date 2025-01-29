@@ -1,0 +1,16 @@
+{
+  "label": "全国12315平台",
+  "package": "com.zrar.qghlwpt",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638524224,
+    "version_name": "3.4.6",
+    "version_code": 41
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

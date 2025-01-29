@@ -1,0 +1,16 @@
+{
+  "label": "天学网",
+  "package": "com.up366.mobile",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1605363538,
+    "version_name": "5.1.1",
+    "version_code": 116
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

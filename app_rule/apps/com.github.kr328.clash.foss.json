@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 31,
+    "version_code": 205011,
+    "version_name": "2.5.11.foss",
+    "timestamp": 1709215030
+  },
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@unnecessary",
+  "package": "com.github.kr328.clash.foss"
+}

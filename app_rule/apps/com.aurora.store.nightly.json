@@ -1,0 +1,28 @@
+{
+  "label": "Aurora Store",
+  "package": "com.aurora.store.nightly",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1645166860,
+    "version_name": "4.1.0",
+    "version_code": 39
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "Aurora/Store/Downloads",
+        "target": "Download/AuroraStore",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

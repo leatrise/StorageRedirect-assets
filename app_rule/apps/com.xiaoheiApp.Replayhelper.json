@@ -1,0 +1,27 @@
+{
+  "label": "Replay helper",
+  "package": "com.xiaoheiApp.Replayhelper",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1592037917,
+    "version_name": "Σ\u003e―(〃°ω°〃)?→??",
+    "version_code": 5
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.tencent.tmgp.sgame",
+        "target": "com.xiaoheiApp.Replayhelper",
+        "paths": [
+          "Android/data/com.tencent.tmgp.sgame/files/Replay"
+        ]
+      }
+    }
+  }
+}

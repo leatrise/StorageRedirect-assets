@@ -1,0 +1,16 @@
+{
+  "label": "凯励程",
+  "package": "com.lxt.app",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1620615716,
+    "version_name": "6.8.1",
+    "version_code": 608010
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

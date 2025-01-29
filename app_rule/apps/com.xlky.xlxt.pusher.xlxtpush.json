@@ -1,0 +1,16 @@
+{
+  "label": "杏林推流",
+  "package": "com.xlky.xlxt.pusher.xlxtpush",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1606536188,
+    "version_name": "1.0.1",
+    "version_code": 2
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

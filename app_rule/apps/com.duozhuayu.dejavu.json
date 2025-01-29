@@ -1,0 +1,16 @@
+{
+  "label": "多抓鱼",
+  "package": "com.duozhuayu.dejavu",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638521804,
+    "version_name": "2.3.9",
+    "version_code": 35
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

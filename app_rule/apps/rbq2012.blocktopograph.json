@@ -1,0 +1,27 @@
+{
+  "label": "Blocktopograph",
+  "package": "rbq2012.blocktopograph",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586586068,
+    "version_name": "1.9.3",
+    "version_code": 1090005
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.mojang.minecraftpe",
+        "target": "rbq2012.blocktopograph",
+        "paths": [
+          "games"
+        ]
+      }
+    }
+  }
+}

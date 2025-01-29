@@ -1,0 +1,24 @@
+{
+  "device_info": {
+    "locale": "zh-CN",
+    "manufacturer": "LGE",
+    "api": 30
+  },
+  "verified": false,
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "last_update": {
+    "target_api": 28,
+    "flags": "read_storage, write_storage",
+    "version_name": "9.9.9",
+    "version_code": 2021123104,
+    "timestamp": 1672798200
+  },
+  "non_standard_files": [
+    ".lkbchannel",
+    "libs"
+  ],
+  "package": "com.wifi.link.wfys"
+}

@@ -1,0 +1,28 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "api": 29,
+    "locale": "zh-CN"
+  },
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    "Android/data/.um",
+    "Android/obj",
+    "tencent",
+    "umeng_cache"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage, android_writeable",
+    "target_api": 29,
+    "version_code": 229,
+    "timestamp": 1653816775,
+    "version_name": "1.4.76"
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.max.maxaccelerator",
+  "recommendation": "@recommended"
+}

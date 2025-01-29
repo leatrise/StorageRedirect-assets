@@ -1,0 +1,16 @@
+{
+  "label": "崩坏3",
+  "package": "com.miHoYo.bh3.bilibili",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1609478167,
+    "version_name": "4.5.0",
+    "version_code": 350
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

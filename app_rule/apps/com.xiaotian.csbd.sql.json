@@ -1,0 +1,23 @@
+{
+  "device_info": {
+    "manufacturer": "realme",
+    "locale": "zh-Hans-CN",
+    "api": 34
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 100307,
+    "version_name": "3.08.240606",
+    "timestamp": 1718283133
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "丫丫书屋"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.xiaotian.csbd.sql"
+}

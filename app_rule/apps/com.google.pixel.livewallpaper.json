@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.pixel.livewallpaper",
+  "last_update": {
+    "target_api": 31,
+    "flags": "",
+    "timestamp": 1656218773,
+    "version_code": 18000820,
+    "version_name": "1.8 (8045151)"
+  }
+}

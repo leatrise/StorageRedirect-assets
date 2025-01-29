@@ -1,0 +1,16 @@
+{
+  "label": "Link to MyASUS",
+  "package": "com.asus.syncv2",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1602728198,
+    "version_name": "1.0.28.10.2009.25",
+    "version_code": 1910050196
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

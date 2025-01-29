@@ -1,0 +1,23 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 30,
+    "locale": "en-US"
+  },
+  "verified": false,
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "version_code": 82,
+    "timestamp": 1664607611,
+    "version_name": "3.03.08"
+  },
+  "package": "com.blackshark.toolbox.mi",
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "com.blackshark.toolbox.mi"
+  ]
+}

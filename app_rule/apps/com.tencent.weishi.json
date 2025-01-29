@@ -1,0 +1,16 @@
+{
+  "label": "微视",
+  "package": "com.tencent.weishi",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1592608646,
+    "version_name": "6.9.6.592",
+    "version_code": 696
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

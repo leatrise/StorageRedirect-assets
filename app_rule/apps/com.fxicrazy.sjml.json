@@ -1,0 +1,16 @@
+{
+  "label": "联掌门户",
+  "package": "com.fxicrazy.sjml",
+  "authors": [
+    "jisxu"
+  ],
+  "last_update": {
+    "timestamp": 1613265383,
+    "version_name": "4.8.8",
+    "version_code": 202102070
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

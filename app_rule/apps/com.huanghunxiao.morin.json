@@ -1,0 +1,36 @@
+{
+  "label": "魔音Morin",
+  "package": "com.huanghunxiao.morin",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1598237207,
+    "version_name": "1.5.2",
+    "version_code": 8
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_music",
+        "source": "Morin/Down/Music",
+        "target": "Music/Morin",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      },
+      "1": {
+        "summary": "保存的歌词",
+        "source": "Morin/Down/Lrc",
+        "target": "Music/Lrc",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

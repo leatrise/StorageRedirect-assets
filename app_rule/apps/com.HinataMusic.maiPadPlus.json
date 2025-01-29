@@ -1,0 +1,16 @@
+{
+  "label": "maiPadPLUS",
+  "package": "com.HinataMusic.maiPadPlus",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1636164414,
+    "version_name": "2.1.0",
+    "version_code": 21000000
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

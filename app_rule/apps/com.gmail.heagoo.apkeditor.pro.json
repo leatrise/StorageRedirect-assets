@@ -1,0 +1,19 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "en-AU",
+    "api": 32
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 26,
+    "version_code": 220,
+    "version_name": "2.2",
+    "timestamp": 1673968214
+  },
+  "non_standard_files": [],
+  "behaviors": [],
+  "recommendation": "@depends_on_situations",
+  "package": "com.gmail.heagoo.apkeditor.pro"
+}

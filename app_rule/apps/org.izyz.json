@@ -1,0 +1,27 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    "IVolunteer",
+    "backups",
+    "baidu"
+  ],
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 26,
+    "version_code": 241,
+    "version_name": "2.4.1",
+    "timestamp": 1680784775
+  },
+  "package": "org.izyz"
+}

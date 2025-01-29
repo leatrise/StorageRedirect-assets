@@ -1,0 +1,16 @@
+{
+  "label": "便签",
+  "package": "com.miui.notes",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595589400,
+    "version_name": "2.3.1",
+    "version_code": 231
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

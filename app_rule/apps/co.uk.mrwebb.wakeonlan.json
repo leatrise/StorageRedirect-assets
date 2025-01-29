@@ -1,0 +1,23 @@
+{
+  "device_info": {
+    "api": 33,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "package": "co.uk.mrwebb.wakeonlan",
+  "last_update": {
+    "target_api": 28,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1679201736,
+    "version_code": 39,
+    "version_name": "1.35"
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "WakeOnLan"
+  ]
+}

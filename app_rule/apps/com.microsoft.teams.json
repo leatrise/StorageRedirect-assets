@@ -1,0 +1,16 @@
+{
+  "label": "Teams",
+  "package": "com.microsoft.teams",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595903541,
+    "version_name": "1416/1.0.0.2020071401",
+    "version_code": 2020561013
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

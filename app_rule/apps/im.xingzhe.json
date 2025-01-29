@@ -1,0 +1,36 @@
+{
+  "label": "行者",
+  "package": "im.xingzhe",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1594601454,
+    "version_name": "3.12.1",
+    "version_code": 202006041
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "轨迹转路书",
+        "source": "xingzhe/lushu/export",
+        "target": "Documents/xingzhe/lushu",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": true
+      },
+      "1": {
+        "summary": "@downloaded_files",
+        "source": "xingzhe/download",
+        "target": "Download/xingzhe",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

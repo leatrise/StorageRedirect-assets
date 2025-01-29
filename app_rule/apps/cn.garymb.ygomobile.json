@@ -1,0 +1,28 @@
+{
+  "label": "YGOMobile",
+  "package": "cn.garymb.ygomobile",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1601705911,
+    "version_name": "3.7.6",
+    "version_code": 370600830
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "ygocore",
+        "target": "YGO/ygocore",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

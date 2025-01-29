@@ -1,0 +1,16 @@
+{
+  "label": "怪兽课表",
+  "package": "com.zhuangfei.hputimetable",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1601443611,
+    "version_name": "3.3.0",
+    "version_code": 60
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

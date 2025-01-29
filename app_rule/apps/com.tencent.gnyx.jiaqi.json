@@ -1,0 +1,16 @@
+{
+  "label": "佳期：团圆",
+  "package": "com.tencent.gnyx.jiaqi",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1624287606,
+    "version_name": "20.3.402",
+    "version_code": 19051502
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

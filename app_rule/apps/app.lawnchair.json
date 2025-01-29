@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "app.lawnchair",
+  "last_update": {
+    "target_api": 32,
+    "flags": "read_storage, android_writeable",
+    "timestamp": 1658231130,
+    "version_code": 12010003,
+    "version_name": "12.1.0 Alpha 3"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.zongjucredit",
+  "last_update": {
+    "target_api": 26,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659585000,
+    "version_code": 88,
+    "version_name": "3.1.1"
+  }
+}

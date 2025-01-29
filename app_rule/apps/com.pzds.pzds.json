@@ -1,0 +1,24 @@
+{
+  "verified": false,
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 33,
+    "manufacturer": "Xiaomi"
+  },
+  "non_standard_files": [
+    ".saf_device",
+    "update"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.pzds.pzds",
+  "recommendation": "@recommended",
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_name": "2.8.0",
+    "timestamp": 1696326047,
+    "version_code": 280
+  }
+}

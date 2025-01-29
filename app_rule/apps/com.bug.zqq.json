@@ -1,0 +1,27 @@
+{
+  "label": "QQ复读机",
+  "package": "com.bug.zqq",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1633256429,
+    "version_name": "8.8.7.2",
+    "version_code": 202
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.tencent.mobileqq",
+        "target": "com.bug.zqq",
+        "paths": [
+          "QQ复读机"
+        ]
+      }
+    }
+  }
+}

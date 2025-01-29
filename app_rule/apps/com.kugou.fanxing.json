@@ -1,0 +1,22 @@
+{
+  "label": "酷狗直播",
+  "package": "com.kugou.fanxing",
+  "last_update": {
+    "timestamp": 1652075762,
+    "version_name": "5.62.0",
+    "version_code": 56200,
+    "target_api": 28,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

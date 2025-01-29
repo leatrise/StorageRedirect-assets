@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 33,
+    "manufacturer": "OnePlus"
+  },
+  "verified": false,
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [],
+  "package": "com.heytap.themestore",
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage, write_storage",
+    "version_name": "9.6.0",
+    "timestamp": 1691203757,
+    "version_code": 90602
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "label": "?PP助手",
+  "package": "com.pp.assistant",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638519552,
+    "version_name": "6.6.33",
+    "version_code": 2106
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "下载的安装包",
+        "source": "pp/downloader",
+        "target": "Download/PP",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

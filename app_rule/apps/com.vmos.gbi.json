@@ -1,0 +1,28 @@
+{
+  "label": "VMOS Pro",
+  "package": "com.vmos.gbi",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1604849417,
+    "version_name": "1.0.1",
+    "version_code": 10001
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "VMOSfiletransferstation",
+        "target": "Download/VMOSfiletransferstation",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
+}

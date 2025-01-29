@@ -1,0 +1,28 @@
+{
+  "label": "磁力云",
+  "package": "com.happy.cloud",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1641212316,
+    "version_name": "2.6.6",
+    "version_code": 21
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "happy.cloud",
+        "target": "Download/磁力云",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

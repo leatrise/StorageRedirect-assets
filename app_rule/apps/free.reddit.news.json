@@ -1,0 +1,16 @@
+{
+  "label": "Relay",
+  "package": "free.reddit.news",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595903951,
+    "version_name": "10.0.262",
+    "version_code": 481
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

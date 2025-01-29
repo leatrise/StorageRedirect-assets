@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.packageinstaller",
+  "last_update": {
+    "target_api": 32,
+    "flags": "",
+    "timestamp": 1656219314,
+    "version_code": 32,
+    "version_name": "12"
+  }
+}

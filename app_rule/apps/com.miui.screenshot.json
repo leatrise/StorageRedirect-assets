@@ -1,0 +1,20 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [],
+  "recommendation": "@cause_problems",
+  "non_standard_files": [],
+  "package": "com.miui.screenshot",
+  "last_update": {
+    "shared_user_id": "android.uid.system",
+    "target_api": 31,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659434938,
+    "version_code": 10300012,
+    "version_name": "RELEASE-1.3.12-02111106"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "label": "阅读",
+  "package": "com.huawei.hwireader",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612355756,
+    "version_name": "8.32.3.301",
+    "version_code": 83203301
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

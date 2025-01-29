@@ -1,0 +1,1 @@
+{   "label": "Classroom",   "package": "com.google.android.apps.classroom",   "authors": [     ""   ],   "last_update": {     "timestamp": 1591257289,     "version_name": "6.4.181.03.40",     "version_code": 201810340   },   "recommendation": "@unnecessary",   "behaviors": [     "@standard"   ] }

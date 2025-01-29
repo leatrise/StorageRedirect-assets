@@ -1,0 +1,16 @@
+{
+  "label": "Messages",
+  "package": "com.oneplus.mms",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1624288713,
+    "version_name": "6.0.0.4.201116173059.68fcf22",
+    "version_code": 175
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

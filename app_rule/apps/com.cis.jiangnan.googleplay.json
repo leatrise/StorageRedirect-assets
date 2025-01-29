@@ -1,0 +1,16 @@
+{
+  "label": "江南百景图",
+  "package": "com.cis.jiangnan.googleplay",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1596767645,
+    "version_name": "1.2.5",
+    "version_code": 35
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

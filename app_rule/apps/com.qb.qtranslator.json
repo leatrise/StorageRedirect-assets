@@ -1,0 +1,16 @@
+{
+  "label": "腾讯翻译君",
+  "package": "com.qb.qtranslator",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1591692640,
+    "version_name": "4.0.10.943",
+    "version_code": 67
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

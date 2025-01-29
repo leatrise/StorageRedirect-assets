@@ -1,0 +1,16 @@
+{
+  "label": "云之家",
+  "package": "com.kdweibo.client",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1639325734,
+    "version_name": "10.1.0",
+    "version_code": 448
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

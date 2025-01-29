@@ -1,0 +1,16 @@
+{
+  "label": "发现精彩",
+  "package": "com.cs_credit_bank",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638523340,
+    "version_name": "6.1.0",
+    "version_code": 20211110
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

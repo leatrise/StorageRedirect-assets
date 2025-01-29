@@ -1,0 +1,16 @@
+{
+  "label": "讯飞输入法",
+  "package": "com.iflytek.inputmethod.googleplay",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1588590987,
+    "version_name": "9.1.9461",
+    "version_code": 9461
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "device_info": {
+    "api": 31,
+    "locale": "zh-CN",
+    "manufacturer": "Xiaomi"
+  },
+  "verified": false,
+  "package": "com.cyberlink.powerdirector.DRA140225_01",
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    "Movies/cyberlink",
+    "PowerDirector"
+  ],
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1667403476,
+    "version_name": "8.0.0",
+    "version_code": 91720
+  },
+  "behaviors": [
+    "@abuse"
+  ]
+}

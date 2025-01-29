@@ -1,0 +1,16 @@
+{
+  "label": "WiFi Service",
+  "package": "com.jhj.dev.wifi",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595829160,
+    "version_name": "2.3.3",
+    "version_code": 44
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "iPASS一卡通",
+  "package": "com.ipass.mobileapp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1631459207,
+    "version_name": "4.4.1",
+    "version_code": 70
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

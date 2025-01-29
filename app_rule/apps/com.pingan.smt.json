@@ -1,0 +1,16 @@
+{
+  "label": "i深圳",
+  "package": "com.pingan.smt",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1624288623,
+    "version_name": "3.4.0",
+    "version_code": 340
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

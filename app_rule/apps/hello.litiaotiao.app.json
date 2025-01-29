@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "device_info": {
+    "locale": "en-US-u-fw-mon-mu-celsius",
+    "api": 34,
+    "manufacturer": "Google"
+  },
+  "non_standard_files": [],
+  "behaviors": [
+    "@standard"
+  ],
+  "package": "hello.litiaotiao.app",
+  "recommendation": "@unnecessary",
+  "last_update": {
+    "flags": "",
+    "target_api": 33,
+    "version_name": "派大星2.2",
+    "timestamp": 1698825373,
+    "version_code": 3
+  }
+}

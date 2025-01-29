@@ -1,0 +1,16 @@
+{
+  "label": "可乐记",
+  "package": "com.colanotes.android",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1589896493,
+    "version_name": "1.8.4",
+    "version_code": 219
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "label": "万年历",
+  "package": "com.youloft.calendar",
+  "last_update": {
+    "timestamp": 1652058811,
+    "version_name": "6.2.9",
+    "version_code": 6002009,
+    "target_api": 30,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "label": "火箭BT下载器",
+  "package": "com.rocketbtdownload",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1593393758,
+    "version_name": "1.07",
+    "version_code": 7
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "RocketBtDownload/Download",
+        "target": "Download/RocketBt",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

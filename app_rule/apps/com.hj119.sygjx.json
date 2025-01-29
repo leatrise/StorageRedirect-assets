@@ -1,0 +1,16 @@
+{
+  "label": "实用工具箱",
+  "package": "com.hj119.sygjx",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614013398,
+    "version_name": "5.4",
+    "version_code": 45
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

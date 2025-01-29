@@ -1,0 +1,16 @@
+{
+  "label": "zANTI",
+  "package": "com.zimperium.zanti",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595490893,
+    "version_name": "zANTI 3.19",
+    "version_code": 319
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

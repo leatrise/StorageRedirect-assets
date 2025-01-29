@@ -1,0 +1,27 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".vivo",
+    "Android/data/pushSdk",
+    "Android/obj"
+  ],
+  "package": "com.onethingcloud.android",
+  "last_update": {
+    "target_api": 28,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659984443,
+    "version_code": 597500,
+    "version_name": "4.0.0"
+  }
+}

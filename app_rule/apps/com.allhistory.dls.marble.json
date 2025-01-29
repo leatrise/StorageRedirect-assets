@@ -1,0 +1,16 @@
+{
+  "label": "全历史",
+  "package": "com.allhistory.dls.marble",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586840204,
+    "version_name": "1.4.7",
+    "version_code": 8013
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

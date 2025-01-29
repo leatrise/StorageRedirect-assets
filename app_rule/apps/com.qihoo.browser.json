@@ -1,0 +1,29 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "non_standard_files": [
+    ".qhDevice",
+    ".sdk",
+    "360",
+    "360Browser",
+    "360aphonebrowser_v2_v10.1.1.900.apk",
+    "ByteDownload",
+    "com.qihoo.browser"
+  ],
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 26,
+    "version_code": 10010180,
+    "version_name": "v10.1.1.800",
+    "timestamp": 1681027668
+  },
+  "package": "com.qihoo.browser"
+}

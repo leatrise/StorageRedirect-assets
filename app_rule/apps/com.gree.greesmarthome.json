@@ -1,0 +1,16 @@
+{
+  "label": "格力+",
+  "package": "com.gree.greesmarthome",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1603992794,
+    "version_name": "4.1.1.6",
+    "version_code": 202009298
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

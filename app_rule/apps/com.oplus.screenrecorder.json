@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 31,
+    "version_code": 12011023,
+    "version_name": "12.11.23",
+    "timestamp": 1664360641
+  },
+  "non_standard_files": [],
+  "behaviors": [
+    "@standard"
+  ],
+  "package": "com.oplus.screenrecorder",
+  "recommendation": "@unnecessary"
+}

@@ -1,0 +1,22 @@
+{
+  "label": "完美邮箱",
+  "package": "com.wanmei.mail",
+  "last_update": {
+    "timestamp": 1654010263,
+    "version_name": "2.1.0",
+    "version_code": 210,
+    "target_api": 28,
+    "flags": 3
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 32,
+    "manufacturer": "OnePlus",
+    "brand": "OnePlus",
+    "model": "ONEPLUS A6003",
+    "locale": "zh-CN"
+  }
+}

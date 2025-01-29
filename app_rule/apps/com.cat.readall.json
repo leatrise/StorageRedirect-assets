@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_code": 12250,
+    "version_name": "2.2.5",
+    "timestamp": 1707526210
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@recommended",
+  "package": "com.cat.readall"
+}

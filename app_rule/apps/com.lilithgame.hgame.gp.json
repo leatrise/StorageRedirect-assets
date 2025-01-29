@@ -1,0 +1,16 @@
+{
+  "label": "AFK Arena",
+  "package": "com.lilithgame.hgame.gp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1596767164,
+    "version_name": "1.43.01",
+    "version_code": 413183
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

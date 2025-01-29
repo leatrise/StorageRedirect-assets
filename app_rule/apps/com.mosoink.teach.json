@@ -1,0 +1,16 @@
+{
+  "label": "云班课",
+  "package": "com.mosoink.teach",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1600396889,
+    "version_name": "5.2.1",
+    "version_code": 122
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

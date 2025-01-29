@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "locale": "zh-Hans-CN",
+    "api": 33,
+    "manufacturer": "unknown"
+  },
+  "verified": true,
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "package": "cn.readpad.whiteboard",
+  "last_update": {
+    "target_api": 33,
+    "flags": "read_storage, write_storage",
+    "version_name": "1.9.2",
+    "timestamp": 1690431186,
+    "version_code": 21
+  }
+}

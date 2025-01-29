@@ -1,0 +1,16 @@
+{
+  "label": "北美省钱快报",
+  "package": "com.dealmoon.android",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1604203929,
+    "version_name": "11.0.0_07",
+    "version_code": 1013
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

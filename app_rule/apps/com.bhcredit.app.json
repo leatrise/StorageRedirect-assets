@@ -1,0 +1,16 @@
+{
+  "label": "百行征信",
+  "package": "com.bhcredit.app",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638521274,
+    "version_name": "1.2.8",
+    "version_code": 1028
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

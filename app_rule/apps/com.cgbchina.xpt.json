@@ -1,0 +1,16 @@
+{
+  "label": "广发银行",
+  "package": "com.cgbchina.xpt",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638522584,
+    "version_name": "7.0.0",
+    "version_code": 20211112
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

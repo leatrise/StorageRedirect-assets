@@ -1,0 +1,16 @@
+{
+  "label": "应用管理",
+  "package": "com.luapp.apps",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612805568,
+    "version_name": "2.51",
+    "version_code": 251
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "LYKA",
+  "package": "com.thingsilikeapp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1610081955,
+    "version_name": "3.4.314",
+    "version_code": 630
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

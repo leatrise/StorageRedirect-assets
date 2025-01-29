@@ -1,0 +1,16 @@
+{
+  "label": "Cellular Pro",
+  "package": "make.more.r2d2.cellular_pro",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638518942,
+    "version_name": "1.6.0",
+    "version_code": 69
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

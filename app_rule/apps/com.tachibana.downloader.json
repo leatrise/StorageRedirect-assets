@@ -1,0 +1,16 @@
+{
+  "label": "Download Navi",
+  "package": "com.tachibana.downloader",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1588075169,
+    "version_name": "1.1.1",
+    "version_code": 7
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

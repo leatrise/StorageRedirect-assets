@@ -1,0 +1,16 @@
+{
+  "label": "文件管理",
+  "package": "com.huawei.hidisk",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1588590338,
+    "version_name": "10.6.2.300",
+    "version_code": 100602300
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

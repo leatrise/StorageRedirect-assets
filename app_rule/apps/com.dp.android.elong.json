@@ -1,0 +1,22 @@
+{
+  "label": "艺龙旅行",
+  "package": "com.dp.android.elong",
+  "last_update": {
+    "timestamp": 1652074180,
+    "version_name": "9.97.0",
+    "version_code": 9970,
+    "target_api": 29,
+    "flags": 0
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

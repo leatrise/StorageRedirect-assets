@@ -1,0 +1,28 @@
+{
+  "label": "Malody",
+  "package": "me.mugzone.malody",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1616278340,
+    "version_name": "4.3.7",
+    "version_code": 202
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "data/malody",
+        "target": "Documents/Malody",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

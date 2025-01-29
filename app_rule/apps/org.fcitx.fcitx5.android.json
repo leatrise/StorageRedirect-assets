@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "last_update": {
+    "flags": "",
+    "target_api": 33,
+    "version_code": 3,
+    "version_name": "0.0.3-0-g9c7e878",
+    "timestamp": 1676991102
+  },
+  "non_standard_files": [],
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "package": "org.fcitx.fcitx5.android"
+}

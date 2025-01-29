@@ -1,0 +1,22 @@
+{
+  "label": "HMS Core",
+  "package": "com.huawei.hwid",
+  "last_update": {
+    "timestamp": 1652077005,
+    "version_name": "6.4.0.310",
+    "version_code": 60400310,
+    "target_api": 31,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

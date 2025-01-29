@@ -1,0 +1,29 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Google",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 28,
+    "version_code": 96642,
+    "version_name": "9.6.642",
+    "timestamp": 1676122469
+  },
+  "non_standard_files": [
+    ".oukdtft",
+    ".tbs",
+    "QQBrowser",
+    "libs",
+    "system",
+    "tencent",
+    "umeng_cache"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.indeed.golinks"
+}

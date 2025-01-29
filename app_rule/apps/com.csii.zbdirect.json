@@ -1,0 +1,16 @@
+{
+  "label": "众邦银行",
+  "package": "com.csii.zbdirect",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638524986,
+    "version_name": "5.0.30",
+    "version_code": 103
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

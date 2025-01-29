@@ -1,0 +1,28 @@
+{
+  "label": "P站助手Lite",
+  "package": "com.bravedefault.pixivlite_android.lite",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1623259029,
+    "version_name": "1.6.2",
+    "version_code": 70
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@downloaded_pictures",
+        "source": "pixivhelper",
+        "target": "Pictures/PixivHelper",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

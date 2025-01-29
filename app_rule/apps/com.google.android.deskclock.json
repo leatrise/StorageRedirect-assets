@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.deskclock",
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage",
+    "timestamp": 1656216204,
+    "version_code": 72004798,
+    "version_name": "7.2 (453989126)"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "non_standard_files": [
+    "Tachiyomi"
+  ],
+  "recommendation": "@depends_on_situations",
+  "behaviors": [],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 99,
+    "version_name": "0.14.5-5666",
+    "timestamp": 1680788590
+  },
+  "package": "eu.kanade.tachiyomi.debug"
+}

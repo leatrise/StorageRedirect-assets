@@ -1,0 +1,16 @@
+{
+  "label": "易博通",
+  "package": "com.multibyte.esender.jiedian",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1597920590,
+    "version_name": "1.1.6",
+    "version_code": 16
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

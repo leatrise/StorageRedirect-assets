@@ -1,0 +1,16 @@
+{
+  "label": "智能图库",
+  "package": "com.gallery20",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1621903652,
+    "version_name": "4.5.0.3",
+    "version_code": 1700
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

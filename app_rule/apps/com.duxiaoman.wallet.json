@@ -1,0 +1,16 @@
+{
+  "label": "度小满金融",
+  "package": "com.duxiaoman.wallet",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595902734,
+    "version_name": "5.5.2",
+    "version_code": 552
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.apps.safetyhub",
+  "last_update": {
+    "target_api": 31,
+    "flags": "",
+    "timestamp": 1656216716,
+    "version_code": 10069426,
+    "version_name": "2022.04.28.447594271.4-release"
+  }
+}

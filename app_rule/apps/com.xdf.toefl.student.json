@@ -1,0 +1,16 @@
+{
+  "label": "新东方托福",
+  "package": "com.xdf.toefl.student",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1596256101,
+    "version_name": "1.7.2",
+    "version_code": 200118
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

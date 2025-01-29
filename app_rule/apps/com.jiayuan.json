@@ -1,0 +1,22 @@
+{
+  "label": "世纪佳缘",
+  "package": "com.jiayuan",
+  "last_update": {
+    "timestamp": 1652070290,
+    "version_name": "9.5.1",
+    "version_code": 90501,
+    "target_api": 28,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "verified": false,
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 31,
+    "manufacturer": "Xiaomi"
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.weixikeji.privatecamera",
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig"
+  ],
+  "last_update": {
+    "target_api": 26,
+    "flags": "read_storage, write_storage",
+    "version_name": "3.6.1",
+    "timestamp": 1655221012,
+    "version_code": 361
+  }
+}

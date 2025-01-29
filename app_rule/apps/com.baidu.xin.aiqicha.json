@@ -1,0 +1,16 @@
+{
+  "label": "爱企查",
+  "package": "com.baidu.xin.aiqicha",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638521165,
+    "version_name": "2.3.9",
+    "version_code": 2021111101
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

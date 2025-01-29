@@ -1,0 +1,16 @@
+{
+  "label": "小冰岛",
+  "package": "com.xiaoice.island",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638542699,
+    "version_name": "1.0.0",
+    "version_code": 100
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 287,
+    "version_name": "3.8.7",
+    "timestamp": 1677553718
+  },
+  "non_standard_files": [
+    ".UTSystemConfig",
+    ".system_log.trace",
+    "Android/._85BtqpOT4h2",
+    "Android/._numtest2",
+    "com.example.examda",
+    "data"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.example.examda"
+}

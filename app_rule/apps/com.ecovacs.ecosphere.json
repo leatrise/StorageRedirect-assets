@@ -1,0 +1,16 @@
+{
+  "label": "科沃斯机器人",
+  "package": "com.ecovacs.ecosphere",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1587181683,
+    "version_name": "2.7.6",
+    "version_code": 77
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

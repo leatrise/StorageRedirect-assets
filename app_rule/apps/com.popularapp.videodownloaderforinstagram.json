@@ -1,0 +1,28 @@
+{
+  "label": "Instagram视频下载器",
+  "package": "com.popularapp.videodownloaderforinstagram",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614133368,
+    "version_name": "1.1.98",
+    "version_code": 98
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_pictures",
+        "source": "InstaSave/InstaDownload",
+        "target": "Pictures/IntsaSave",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

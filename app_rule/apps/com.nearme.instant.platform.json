@@ -1,0 +1,24 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "OPPO",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "non_standard_files": [
+    "ColorOS"
+  ],
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 33,
+    "shared_user_id": "oppo.uid.instant",
+    "version_code": 60306,
+    "version_name": "6.3.4",
+    "timestamp": 1682932612
+  },
+  "package": "com.nearme.instant.platform"
+}

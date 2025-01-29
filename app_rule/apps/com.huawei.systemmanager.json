@@ -1,0 +1,16 @@
+{
+  "label": "手机管家",
+  "package": "com.huawei.systemmanager",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1588589101,
+    "version_name": "8.0.0.302",
+    "version_code": 80000302
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

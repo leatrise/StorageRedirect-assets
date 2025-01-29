@@ -1,0 +1,28 @@
+{
+  "label": "班级小管家",
+  "package": "com.banjixiaoguanjia.app",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614331646,
+    "version_name": "0.8.3",
+    "version_code": 156
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_pictures",
+        "source": "班级小管家",
+        "target": "Pictures/班级小管家",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

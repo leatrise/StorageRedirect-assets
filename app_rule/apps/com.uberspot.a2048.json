@@ -1,0 +1,16 @@
+{
+  "label": "2048",
+  "package": "com.uberspot.a2048",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1633701753,
+    "version_name": "2.2",
+    "version_code": 25
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

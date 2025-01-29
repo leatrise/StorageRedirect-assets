@@ -1,0 +1,16 @@
+{
+  "label": "小米互联通信服务",
+  "package": "com.xiaomi.mi_connect_service",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1599264644,
+    "version_name": "1.1.117",
+    "version_code": 7
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

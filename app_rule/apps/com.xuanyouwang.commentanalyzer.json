@@ -1,0 +1,16 @@
+{
+  "label": "防刷刷",
+  "package": "com.xuanyouwang.commentanalyzer",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638522388,
+    "version_name": "3.3.4",
+    "version_code": 109
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

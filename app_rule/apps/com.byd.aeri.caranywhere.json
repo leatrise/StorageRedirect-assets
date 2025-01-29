@@ -1,0 +1,16 @@
+{
+  "label": "比亚迪汽车",
+  "package": "com.byd.aeri.caranywhere",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1620058753,
+    "version_name": "5.1.0",
+    "version_code": 101
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

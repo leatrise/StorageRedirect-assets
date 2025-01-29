@@ -1,0 +1,48 @@
+{
+  "label": "Dell Mobile Connect",
+  "package": "com.screenovate.dell.mobileconnect",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1591089735,
+    "version_name": "3.0.9268",
+    "version_code": 30009268
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "source": "Dell Mobile Connect/Audio",
+        "target": "Music/Dell Mobile Connect",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      },
+      "1": {
+        "source": "Dell Mobile Connect/Images",
+        "target": "Pictures/Dell Mobile Connect",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      },
+      "2": {
+        "source": "Dell Mobile Connect/Videos",
+        "target": "Movies/Dell Mobile Connect",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      },
+      "3": {
+        "source": "Dell Mobile Connect/Other",
+        "target": "Download/Dell Mobile Connect",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

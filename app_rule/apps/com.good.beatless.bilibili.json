@@ -1,0 +1,16 @@
+{
+  "label": "空匣人型",
+  "package": "com.good.beatless.bilibili",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612355176,
+    "version_name": "0.71",
+    "version_code": 15
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

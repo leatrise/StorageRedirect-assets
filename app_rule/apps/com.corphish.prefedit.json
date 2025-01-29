@@ -1,0 +1,16 @@
+{
+  "label": "PrefEdit",
+  "package": "com.corphish.prefedit",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1591459700,
+    "version_name": "1.0.2",
+    "version_code": 30
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN",
+    "api": 34
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 28,
+    "version_code": 3112,
+    "version_name": "3.1.12",
+    "timestamp": 1707931530
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".DataStorage",
+    ".SystemConfig",
+    ".UTSystemConfig",
+    "com.hnnx.eBank.android"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.hnnx.eBank.android"
+}

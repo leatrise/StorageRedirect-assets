@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.contacts",
+  "last_update": {
+    "target_api": 33,
+    "flags": "",
+    "timestamp": 1656217179,
+    "version_code": 2826706,
+    "version_name": "3.70.3.453319987"
+  }
+}

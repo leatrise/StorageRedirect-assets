@@ -1,0 +1,16 @@
+{
+  "label": "微微电话",
+  "package": "com.yunlian.wewe",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1590055486,
+    "version_name": "5.5",
+    "version_code": 115
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

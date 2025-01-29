@@ -1,0 +1,16 @@
+{
+  "label": "闽政通",
+  "package": "net.evecom.android.mztapp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1634143829,
+    "version_name": "3.2.0",
+    "version_code": 157
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

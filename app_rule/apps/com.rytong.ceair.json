@@ -1,0 +1,22 @@
+{
+  "label": "中国东航",
+  "package": "com.rytong.ceair",
+  "last_update": {
+    "timestamp": 1652074362,
+    "version_name": "9.2.13",
+    "version_code": 170,
+    "target_api": 28,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

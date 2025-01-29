@@ -1,0 +1,16 @@
+{
+  "label": "游戏时光",
+  "package": "com.bard.vgtime",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586840286,
+    "version_name": "2.5.9",
+    "version_code": 770
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

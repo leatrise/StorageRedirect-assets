@@ -1,0 +1,27 @@
+{
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 33,
+    "manufacturer": "Xiaomi"
+  },
+  "verified": false,
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".cjdd",
+    "Android/.e84e3.cuid",
+    "Tencent",
+    "com.jifen.ac",
+    "com.jifen.op"
+  ],
+  "package": "com.huachenjie.shandong_school",
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage, write_storage",
+    "version_name": "5.0.2",
+    "timestamp": 1694598535,
+    "version_code": 23080418
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "device_info": {
+    "manufacturer": "motorola",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 31,
+    "version_code": 528,
+    "version_name": "5.0.7",
+    "timestamp": 1704469911
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".histor",
+    "HikBox",
+    "histor"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.hikistor.histor"
+}

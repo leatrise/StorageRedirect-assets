@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "OnePlus",
+    "locale": "en-US"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [],
+  "package": "com.mobisystems.mobiscanner",
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage",
+    "timestamp": 1658634139,
+    "version_code": 1456,
+    "version_name": "9.1.1456"
+  }
+}

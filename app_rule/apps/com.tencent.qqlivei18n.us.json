@@ -1,0 +1,16 @@
+{
+  "label": "Tencent Video",
+  "package": "com.tencent.qqlivei18n.us",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1616903692,
+    "version_name": "3.1.0.5736",
+    "version_code": 5736
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

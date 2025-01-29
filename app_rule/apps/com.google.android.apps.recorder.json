@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.apps.recorder",
+  "last_update": {
+    "target_api": 31,
+    "flags": "",
+    "timestamp": 1656216766,
+    "version_code": 35005113,
+    "version_name": "3.5.439815822"
+  }
+}

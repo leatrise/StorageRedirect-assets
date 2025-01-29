@@ -1,0 +1,24 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 34
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 31,
+    "version_code": 529,
+    "version_name": "5.2.9",
+    "timestamp": 1709704619
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".gs_fs0",
+    "umeng_cache"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.kkeji.news.client"
+}

@@ -1,0 +1,22 @@
+{
+  "label": "南方航空",
+  "package": "com.csair.mbp",
+  "last_update": {
+    "timestamp": 1652074859,
+    "version_name": "4.3.0",
+    "version_code": 20220414,
+    "target_api": 29,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

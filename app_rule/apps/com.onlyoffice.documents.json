@@ -1,0 +1,21 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 31
+  },
+  "non_standard_files": [
+    "Onlyoffice"
+  ],
+  "recommendation": "@depends_on_situations",
+  "behaviors": [],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 33,
+    "version_code": 440,
+    "version_name": "5.6.0",
+    "timestamp": 1682649618
+  },
+  "package": "com.onlyoffice.documents"
+}

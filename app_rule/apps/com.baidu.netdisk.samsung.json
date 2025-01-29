@@ -1,0 +1,26 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "samsung",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    "BaiduNetdisk",
+    "Download/BaiduNetdisk",
+    "backups",
+    "baidu"
+  ],
+  "package": "com.baidu.netdisk.samsung",
+  "last_update": {
+    "target_api": 31,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659366727,
+    "version_code": 1697,
+    "version_name": "11.27.4"
+  }
+}

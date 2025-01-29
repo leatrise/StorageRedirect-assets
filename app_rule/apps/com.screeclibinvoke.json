@@ -1,0 +1,16 @@
+{
+  "label": "录屏大师",
+  "package": "com.screeclibinvoke",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1603120284,
+    "version_name": "3.1.8.6",
+    "version_code": 20191219
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

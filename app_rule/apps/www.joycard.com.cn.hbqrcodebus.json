@@ -1,0 +1,28 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 28,
+    "version_code": 19,
+    "version_name": "3.0.2",
+    "timestamp": 1673958448
+  },
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".com.taobao.dp",
+    ".gs_file",
+    ".gs_fs0",
+    "tencent"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "www.joycard.com.cn.hbqrcodebus"
+}

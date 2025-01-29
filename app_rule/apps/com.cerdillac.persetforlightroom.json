@@ -1,0 +1,28 @@
+{
+  "label": "滤镜君",
+  "package": "com.cerdillac.persetforlightroom",
+  "authors": [
+    "张健滢"
+  ],
+  "last_update": {
+    "timestamp": 1599568846,
+    "version_name": "3.4.1.20200803",
+    "version_code": 102
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "DCIM",
+        "target": "DCIM/presets",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
+}

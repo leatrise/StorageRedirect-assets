@@ -1,0 +1,16 @@
+{
+  "label": "一加手机找回",
+  "package": "com.oneplus.findmyphone",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1594364749,
+    "version_name": "1.0.0",
+    "version_code": 300
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

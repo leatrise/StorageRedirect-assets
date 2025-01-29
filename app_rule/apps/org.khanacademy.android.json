@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 30,
+    "manufacturer": "meizu",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "org.khanacademy.android",
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage",
+    "timestamp": 1660583165,
+    "version_code": 100535,
+    "version_name": "7.5.2"
+  }
+}

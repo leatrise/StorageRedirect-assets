@@ -1,0 +1,39 @@
+{
+  "device_info": {
+    "api": 30,
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".__pdvk.sys",
+    ".__pfrk.sys",
+    ".__ppsk.sys",
+    ".__psek.sys",
+    ".__puuk.sys",
+    ".gs_fs0",
+    ".saf_device",
+    ".sysdv",
+    "Android/._85BtqpOT4h",
+    "Android/._numtest",
+    "Android/obj",
+    "alipay",
+    "geetest",
+    "system",
+    "tencent"
+  ],
+  "package": "com.okinc.okex.gp",
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659067863,
+    "version_code": 1930,
+    "version_name": "6.1.2"
+  }
+}

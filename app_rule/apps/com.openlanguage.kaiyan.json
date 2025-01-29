@@ -1,0 +1,16 @@
+{
+  "label": "开言英语",
+  "package": "com.openlanguage.kaiyan",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638522965,
+    "version_name": "7.4.0",
+    "version_code": 70400
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

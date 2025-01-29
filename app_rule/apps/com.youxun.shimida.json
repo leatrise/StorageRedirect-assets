@@ -1,0 +1,16 @@
+{
+  "label": "事密达",
+  "package": "com.youxun.shimida",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1618723049,
+    "version_name": "1.0.4",
+    "version_code": 4
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

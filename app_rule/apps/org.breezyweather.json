@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "read_storage",
+    "target_api": 33,
+    "version_code": 40611,
+    "version_name": "4.6.11-beta",
+    "timestamp": 1700402498
+  },
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@unnecessary",
+  "package": "org.breezyweather"
+}

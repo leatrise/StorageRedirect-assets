@@ -1,0 +1,30 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 26,
+    "version_code": 268,
+    "version_name": "2.6.0",
+    "timestamp": 1686579888
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".dprotect73859639.txt",
+    ".oukdtft",
+    ".thumbcache_idx_cKzsLdSNfUG5OukZQ8xY",
+    "Android/.zybid",
+    "Android/.zybkey",
+    "SysQS",
+    "Tencent",
+    "backups"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.zmzx.college.search"
+}

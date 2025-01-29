@@ -1,0 +1,16 @@
+{
+  "label": "Intesa Sanpaolo Mobile",
+  "package": "com.latuabancaperandroid",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1629970037,
+    "version_name": "3.0.1",
+    "version_code": 21081132
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

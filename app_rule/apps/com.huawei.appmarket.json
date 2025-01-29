@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_code": 130401301,
+    "version_name": "13.4.1.301",
+    "timestamp": 1700402756
+  },
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@unnecessary",
+  "package": "com.huawei.appmarket"
+}

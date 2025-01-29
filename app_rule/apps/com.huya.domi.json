@@ -1,0 +1,16 @@
+{
+  "label": "YoTok",
+  "package": "com.huya.domi",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1597919673,
+    "version_name": "2.0.2",
+    "version_code": 841
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

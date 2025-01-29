@@ -1,0 +1,28 @@
+{
+  "label": "WPS便签",
+  "package": "cn.wps.note",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1593940166,
+    "version_name": "1.8.6",
+    "version_code": 26
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "WPSNote/WPSNote_Images",
+        "target": "Download/WPSNote",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

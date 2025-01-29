@@ -1,0 +1,16 @@
+{
+  "label": "泰尔测速",
+  "package": "com.ruili.android.taierspeed",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638542256,
+    "version_name": "2.9.6",
+    "version_code": 20906
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

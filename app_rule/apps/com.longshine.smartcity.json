@@ -1,0 +1,30 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".gs_fs0",
+    ".tbs",
+    "QQBrowser",
+    "com.longshine.smartcity",
+    "libs",
+    "tencent"
+  ],
+  "package": "com.longshine.smartcity",
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1656687145,
+    "version_code": 77,
+    "version_name": "4.1.1"
+  }
+}

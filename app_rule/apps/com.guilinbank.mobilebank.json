@@ -1,0 +1,16 @@
+{
+  "label": "桂林银行",
+  "package": "com.guilinbank.mobilebank",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586257885,
+    "version_name": "3.4.1",
+    "version_code": 59
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

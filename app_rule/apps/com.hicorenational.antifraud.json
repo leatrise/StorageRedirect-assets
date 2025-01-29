@@ -1,0 +1,16 @@
+{
+  "label": "国家反诈中心",
+  "package": "com.hicorenational.antifraud",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1631743504,
+    "version_name": "1.1.14",
+    "version_code": 63
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

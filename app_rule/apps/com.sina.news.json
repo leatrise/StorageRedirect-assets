@@ -1,0 +1,22 @@
+{
+  "label": "新浪新闻",
+  "package": "com.sina.news",
+  "last_update": {
+    "timestamp": 1652076625,
+    "version_name": "7.81.5",
+    "version_code": 1015,
+    "target_api": 26,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

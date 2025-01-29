@@ -1,0 +1,23 @@
+{
+  "verified": false,
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 33,
+    "manufacturer": "Xiaomi"
+  },
+  "non_standard_files": [
+    "MYCP"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.mycp.videocompress",
+  "recommendation": "@recommended",
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_name": "4.0.8",
+    "timestamp": 1711732872,
+    "version_code": 408
+  }
+}

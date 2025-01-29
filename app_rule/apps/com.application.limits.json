@@ -1,0 +1,16 @@
+{
+  "label": "时间锁",
+  "package": "com.application.limits",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612805954,
+    "version_name": "1.0.4",
+    "version_code": 3
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

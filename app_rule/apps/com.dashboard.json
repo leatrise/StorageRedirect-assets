@@ -1,0 +1,16 @@
+{
+  "label": "Dashboard",
+  "package": "com.dashboard",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1601686886,
+    "version_name": "0.5.0b",
+    "version_code": 1
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

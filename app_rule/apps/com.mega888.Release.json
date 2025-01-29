@@ -1,0 +1,19 @@
+{
+  "package": "com.mega888.Release",
+  "recommend": true,
+  "verified": false,
+  "authors": [
+    "dinyfirmanza"
+  ],
+  "observers": [
+    {
+      "source": "com.mega888.Release/src",
+      "target": "target/target",
+      "description": "saved_files",
+      "call_media_scan": false,
+      "add_to_downloads": false,
+      "allow_child": false,
+      "allow_temp": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "label": "NoAdsBackgroundPlaybackYT",
+  "package": "com.NoAdsBackgroundPlaybackYT",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1594775387,
+    "version_name": "2.0.8",
+    "version_code": 20190826
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.google.android.youtube",
+        "target": "com.NoAdsBackgroundPlaybackYT",
+        "paths": [
+          "Android/data/com.google.android.youtube/cache",
+          "Android/data/com.google.android.youtube/files"
+        ]
+      }
+    }
+  }
+}

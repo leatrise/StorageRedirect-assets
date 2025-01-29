@@ -1,0 +1,16 @@
+{
+  "label": "机核",
+  "package": "me.tangke.gamecores",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586839311,
+    "version_name": "2.8.5",
+    "version_code": 199
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

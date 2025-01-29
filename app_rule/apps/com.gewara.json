@@ -1,0 +1,22 @@
+{
+  "label": "格瓦拉生活",
+  "package": "com.gewara",
+  "last_update": {
+    "timestamp": 1652076800,
+    "version_name": "9.9.11",
+    "version_code": 900090011,
+    "target_api": 26,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

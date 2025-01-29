@@ -1,0 +1,23 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 34
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 33,
+    "version_code": 150000050,
+    "version_name": "15.0.5.0.ceaac61.2919843",
+    "timestamp": 1703824069
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "com.milink.service"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.milink.service"
+}

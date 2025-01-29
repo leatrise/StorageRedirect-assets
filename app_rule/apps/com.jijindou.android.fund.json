@@ -1,0 +1,16 @@
+{
+  "label": "基金豆",
+  "package": "com.jijindou.android.fund",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595902116,
+    "version_name": "6.3.1",
+    "version_code": 72
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

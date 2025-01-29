@@ -1,0 +1,27 @@
+{
+  "label": "旅橙事故通",
+  "package": "com.lc_dvr",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1587724264,
+    "version_name": "4.3.0.001",
+    "version_code": 2
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "source": "VOC",
+        "target": "Movies/VOC",
+        "call_media_scan": true,
+        "add_to_downloads": true,
+        "allow_child": true
+      }
+    }
+  }
+}

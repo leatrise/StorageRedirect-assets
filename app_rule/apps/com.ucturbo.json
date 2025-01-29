@@ -1,0 +1,16 @@
+{
+  "label": "UC Turbo",
+  "package": "com.ucturbo",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1592144534,
+    "version_name": "1.9.10.900",
+    "version_code": 166
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "观察者",
+  "package": "cn.guancha.app",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1634179201,
+    "version_name": "8.1.1",
+    "version_code": 202109080
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

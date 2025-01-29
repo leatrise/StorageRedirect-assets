@@ -1,0 +1,22 @@
+{
+  "label": "弹幕单词",
+  "package": "com.netdict",
+  "last_update": {
+    "timestamp": 1652075550,
+    "version_name": "5.0.6",
+    "version_code": 56,
+    "target_api": 26,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

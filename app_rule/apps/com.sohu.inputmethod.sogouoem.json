@@ -1,0 +1,24 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "OPPO",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "non_standard_files": [
+    ".sogouoem",
+    "sogou"
+  ],
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 1630,
+    "version_name": "8.32.0322.2302141818",
+    "timestamp": 1682933666
+  },
+  "package": "com.sohu.inputmethod.sogouoem"
+}

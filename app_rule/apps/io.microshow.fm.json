@@ -1,0 +1,16 @@
+{
+  "label": "畅听FM",
+  "package": "io.microshow.fm",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638521481,
+    "version_name": "2.1.2",
+    "version_code": 212
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

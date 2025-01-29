@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 30,
+    "locale": "en-US"
+  },
+  "verified": true,
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage, write_storage",
+    "version_code": 52000004,
+    "timestamp": 1664607457,
+    "version_name": "5.19.3.0"
+  },
+  "package": "com.nhn.android.nmap",
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
+}

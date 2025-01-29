@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "en-US",
+    "api": 33
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 27,
+    "version_code": 123,
+    "version_name": "R2.2.48.1.0114",
+    "timestamp": 1708711696
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@recommended",
+  "package": "cn.gov.haaic"
+}

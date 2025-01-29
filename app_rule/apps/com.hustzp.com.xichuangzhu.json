@@ -1,0 +1,22 @@
+{
+  "label": "西窗烛",
+  "package": "com.hustzp.com.xichuangzhu",
+  "last_update": {
+    "timestamp": 1652064884,
+    "version_name": "5.9.12",
+    "version_code": 189,
+    "target_api": 28,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

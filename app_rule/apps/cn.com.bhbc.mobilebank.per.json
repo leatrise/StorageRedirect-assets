@@ -1,0 +1,16 @@
+{
+  "label": "渤海银行",
+  "package": "cn.com.bhbc.mobilebank.per",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595634404,
+    "version_name": "9.3",
+    "version_code": 62
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

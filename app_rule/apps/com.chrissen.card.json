@@ -1,0 +1,16 @@
+{
+  "label": "麻雀记",
+  "package": "com.chrissen.card",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586840120,
+    "version_name": "4.2.0",
+    "version_code": 78
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

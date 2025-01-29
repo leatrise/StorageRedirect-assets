@@ -1,0 +1,23 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_code": 365,
+    "version_name": "3.6.5",
+    "timestamp": 1711594805
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Tencent"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.mmzztt.app"
+}

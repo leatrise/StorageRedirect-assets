@@ -1,0 +1,27 @@
+{
+  "label": "皮皮虾",
+  "package": "com.sup.android.superb",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586257335,
+    "version_name": "2.6.0",
+    "version_code": 260
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "source": "DCIM/pipixia",
+        "target": "DCIM/pipixia",
+        "call_media_scan": true,
+        "add_to_downloads": true,
+        "allow_child": true
+      }
+    }
+  }
+}

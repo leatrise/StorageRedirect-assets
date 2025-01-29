@@ -1,0 +1,16 @@
+{
+  "label": "橙光",
+  "package": "com.avgorange.dating",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1629760033,
+    "version_name": "2.30.280.0727",
+    "version_code": 280
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

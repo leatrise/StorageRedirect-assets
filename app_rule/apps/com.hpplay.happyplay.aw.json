@@ -1,0 +1,23 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "LGE",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.hpplay.happyplay.aw",
+  "recommendation": "@recommended",
+  "last_update": {
+    "target_api": 23,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1696295136,
+    "version_code": 808080203,
+    "version_name": "8.2.03"
+  },
+  "non_standard_files": [
+    "com.hpplay.happyplay.aw"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "一指禅",
+  "package": "me.app.xad",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612805835,
+    "version_name": "2.9.75",
+    "version_code": 2920975
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

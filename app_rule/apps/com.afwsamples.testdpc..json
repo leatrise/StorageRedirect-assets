@@ -1,0 +1,13 @@
+{
+  "label": "Test DPC",
+  "packageName": "com.afwsamples.testdpc",
+  "authors": [
+    "QingKongBaiYu"
+  ],
+  "last_update": {
+    "version_name": "6.2.0",
+    "version_code": 6200
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": "@standard"
+}

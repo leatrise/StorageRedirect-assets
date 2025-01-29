@@ -1,0 +1,22 @@
+{
+  "label": "See",
+  "package": "com.caij.see",
+  "last_update": {
+    "timestamp": 1652114946,
+    "version_name": "2.4.4.2",
+    "version_code": 2040402,
+    "target_api": 30,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

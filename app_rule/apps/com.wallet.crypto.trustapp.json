@@ -1,0 +1,16 @@
+{
+  "label": "Trust Wallet",
+  "package": "com.wallet.crypto.trustapp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595830120,
+    "version_name": "1.12.4",
+    "version_code": 6020
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

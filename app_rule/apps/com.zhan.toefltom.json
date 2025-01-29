@@ -1,0 +1,16 @@
+{
+  "label": "小站托福",
+  "package": "com.zhan.toefltom",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1624288909,
+    "version_name": "4.7.0",
+    "version_code": 106
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

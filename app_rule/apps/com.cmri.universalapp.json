@@ -1,0 +1,26 @@
+{
+  "device_info": {
+    "manufacturer": "motorola",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 31,
+    "version_code": 2120000619,
+    "version_name": "8.1.0",
+    "timestamp": 1704471532
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Android/INSTALLATIONUTILS",
+    "Android/andmu_deviceId.txt",
+    "grpc",
+    "trace.txt"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.cmri.universalapp"
+}

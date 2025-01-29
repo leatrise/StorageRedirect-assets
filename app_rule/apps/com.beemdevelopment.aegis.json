@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "en-US",
+    "api": 33
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "",
+    "target_api": 33,
+    "version_code": 58,
+    "version_name": "2.1.3",
+    "timestamp": 1688673228
+  },
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@unnecessary",
+  "package": "com.beemdevelopment.aegis"
+}

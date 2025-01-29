@@ -1,0 +1,16 @@
+{
+  "label": "京东云无线宝",
+  "package": "com.jdcloud.mt.smartrouter",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638522896,
+    "version_name": "3.0.0",
+    "version_code": 51
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

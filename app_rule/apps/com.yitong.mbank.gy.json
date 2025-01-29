@@ -1,0 +1,16 @@
+{
+  "label": "爽爽bank",
+  "package": "com.yitong.mbank.gy",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1617961699,
+    "version_name": "2.0.6",
+    "version_code": 59
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

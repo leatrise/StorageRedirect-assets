@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 30
+  },
+  "last_update": {
+    "flags": "read_storage",
+    "target_api": 33,
+    "version_code": 99,
+    "version_name": "4.1.1",
+    "timestamp": 1676906639
+  },
+  "non_standard_files": [],
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "package": "com.merpyzf.xmnote"
+}

@@ -1,0 +1,22 @@
+{
+  "label": "会话微件",
+  "package": "com.example.raccoon.dialogwidget",
+  "last_update": {
+    "timestamp": 1652058457,
+    "version_name": "4.3.9_20220502",
+    "version_code": 136,
+    "target_api": 30,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

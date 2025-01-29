@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 33,
+    "version_code": 61,
+    "version_name": "2.0.0",
+    "timestamp": 1710747463
+  },
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@unnecessary",
+  "package": "com.miHoYo.hkrpg"
+}

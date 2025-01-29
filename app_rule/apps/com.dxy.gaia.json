@@ -1,0 +1,16 @@
+{
+  "label": "丁香妈妈",
+  "package": "com.dxy.gaia",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638521596,
+    "version_name": "5.35.0",
+    "version_code": 20211115
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 28
+  },
+  "non_standard_files": [
+    ".BD_SAPI_CACHE",
+    ".g_b_d_v",
+    ".g_m_o_bs",
+    ".turing.dat",
+    ".x_o_b_d",
+    ".zp",
+    "ByteDownload",
+    "Tencent",
+    "backups"
+  ],
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage, android_writeable",
+    "target_api": 26,
+    "version_code": 813,
+    "version_name": "3.5.3",
+    "timestamp": 1681061432
+  },
+  "package": "com.baidu.ybb"
+}

@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 33,
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "version_code": 2022112000,
+    "timestamp": 1673876923,
+    "version_name": "1.0.5"
+  },
+  "package": "com.sulisong.uperf",
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": []
+}

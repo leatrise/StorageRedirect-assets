@@ -1,0 +1,36 @@
+{
+  "label": "听·下",
+  "package": "com.listen.music",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1593598066,
+    "version_name": "1.1.8",
+    "version_code": 9
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "听·下/Music",
+        "target": "Music/听·下/Music",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      },
+      "1": {
+        "summary": "@saved_files",
+        "source": "听·下/lyric",
+        "target": "Music/听·下/lyric",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "label": "Aqara Home",
+  "package": "com.lumiunited.aqarahome.play",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1620693924,
+    "version_name": "2.3.3",
+    "version_code": 474
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

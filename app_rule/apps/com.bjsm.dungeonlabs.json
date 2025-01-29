@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "locale": "zh-Hans-CN",
+    "api": 33,
+    "manufacturer": "OnePlus"
+  },
+  "verified": false,
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [],
+  "package": "com.bjsm.dungeonlabs",
+  "last_update": {
+    "target_api": 33,
+    "flags": "read_storage, write_storage",
+    "version_name": "3.0.7 Beta",
+    "timestamp": 1693069548,
+    "version_code": 107
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "verified": false,
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 31,
+    "manufacturer": "OnePlus"
+  },
+  "recommendation": "@recommended",
+  "package": "com.ajhy.ehome",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Tencent",
+    "data",
+    "ehome",
+    "logger"
+  ],
+  "last_update": {
+    "target_api": 28,
+    "flags": "read_storage, write_storage",
+    "version_name": "2.3.2",
+    "timestamp": 1663750210,
+    "version_code": 78
+  }
+}

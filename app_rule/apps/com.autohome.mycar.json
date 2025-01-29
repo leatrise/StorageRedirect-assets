@@ -1,0 +1,22 @@
+{
+  "label": "汽车之家车主版",
+  "package": "com.autohome.mycar",
+  "last_update": {
+    "timestamp": 1652066980,
+    "version_name": "8.7.8.0",
+    "version_code": 156,
+    "target_api": 26,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

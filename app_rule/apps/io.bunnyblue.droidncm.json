@@ -1,0 +1,27 @@
+{
+  "label": "DroidNCM",
+  "package": "io.bunnyblue.droidncm",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1591030186,
+    "version_name": "3.0",
+    "version_code": 3
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.netease.cloudmusic",
+        "target": "io.bunnyblue.droidncm",
+        "paths": [
+          "netease/cloudmusic/Music"
+        ]
+      }
+    }
+  }
+}

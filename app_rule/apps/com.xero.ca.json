@@ -1,0 +1,16 @@
+{
+  "label": "命令助手",
+  "package": "com.xero.ca",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595829824,
+    "version_name": "1.2.13",
+    "version_code": 18285
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

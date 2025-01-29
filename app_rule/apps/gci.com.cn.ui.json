@@ -1,0 +1,16 @@
+{
+  "label": "广州交通·行讯通",
+  "package": "gci.com.cn.ui",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1591107243,
+    "version_name": "4.0.9",
+    "version_code": 409
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

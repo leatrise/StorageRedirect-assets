@@ -1,0 +1,22 @@
+{
+  "label": "花小猪打车",
+  "package": "com.huaxiaozhu.rider",
+  "last_update": {
+    "timestamp": 1652060345,
+    "version_name": "1.4.20",
+    "version_code": 228,
+    "target_api": 28,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

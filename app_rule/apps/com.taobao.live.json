@@ -1,0 +1,26 @@
+{
+  "device_info": {
+    "api": 30,
+    "manufacturer": "blackshark",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    ".gs_fs0",
+    ".gs_fs3"
+  ],
+  "package": "com.taobao.live",
+  "last_update": {
+    "target_api": 28,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1659246565,
+    "version_code": 164,
+    "version_name": "2.62.1.3"
+  }
+}

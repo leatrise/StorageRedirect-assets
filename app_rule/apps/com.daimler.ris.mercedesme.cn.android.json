@@ -1,0 +1,24 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 34
+  },
+  "verified": false,
+  "last_update": {
+    "shared_user_id": "com.daimler",
+    "flags": "read_storage, write_storage",
+    "target_api": 34,
+    "version_code": 1786,
+    "version_name": "1.40.0",
+    "timestamp": 1709704857
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "libs"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.daimler.ris.mercedesme.cn.android"
+}

@@ -1,0 +1,16 @@
+{
+  "label": "省心英语电台",
+  "package": "com.xiaobin.voaenglish",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638524584,
+    "version_name": "2.4.8",
+    "version_code": 101
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

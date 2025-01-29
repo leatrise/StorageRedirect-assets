@@ -1,0 +1,16 @@
+{
+  "label": "食药云搜",
+  "package": "com.cfdaic.app",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638524694,
+    "version_name": "2.2.5",
+    "version_code": 225
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

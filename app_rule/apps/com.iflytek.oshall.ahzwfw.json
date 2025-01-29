@@ -1,0 +1,16 @@
+{
+  "label": "皖事通",
+  "package": "com.iflytek.oshall.ahzwfw",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1606286812,
+    "version_name": "1.8.1.1",
+    "version_code": 1085
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

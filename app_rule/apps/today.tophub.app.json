@@ -1,0 +1,16 @@
+{
+  "label": "今日热榜",
+  "package": "today.tophub.app",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1630290212,
+    "version_name": "1.9.3",
+    "version_code": 18
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

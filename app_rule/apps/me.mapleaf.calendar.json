@@ -1,0 +1,25 @@
+{
+  "device_info": {
+    "locale": "en-US",
+    "manufacturer": "Xiaomi",
+    "api": 33
+  },
+  "verified": false,
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "last_update": {
+    "target_api": 33,
+    "flags": "read_storage, write_storage",
+    "version_name": "0.26",
+    "version_code": 51,
+    "timestamp": 1671469592
+  },
+  "non_standard_files": [
+    ".DataStorage",
+    ".UTSystemConfig",
+    "Tencent"
+  ],
+  "package": "me.mapleaf.calendar"
+}

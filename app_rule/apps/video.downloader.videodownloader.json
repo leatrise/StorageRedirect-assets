@@ -1,0 +1,28 @@
+{
+  "label": "Video Downloader",
+  "package": "video.downloader.videodownloader",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595693425,
+    "version_name": "1.5.1",
+    "version_code": 51
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@downloaded_videos",
+        "source": "VideoDownloader",
+        "target": "Download/VideoDownloader",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

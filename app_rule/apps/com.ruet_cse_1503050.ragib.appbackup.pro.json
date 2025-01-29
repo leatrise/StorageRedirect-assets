@@ -1,0 +1,19 @@
+{
+  "device_info": {
+    "api": 30,
+    "manufacturer": "meizu",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": false,
+  "behaviors": [],
+  "recommendation": "@depends_on_situations",
+  "non_standard_files": [],
+  "package": "com.ruet_cse_1503050.ragib.appbackup.pro",
+  "last_update": {
+    "target_api": 32,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1660581445,
+    "version_code": 335,
+    "version_name": "33.0.5"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 30,
+    "manufacturer": "meizu",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.aspyr.civvi",
+  "last_update": {
+    "target_api": 29,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1660581263,
+    "version_code": 2140962,
+    "version_name": "1.2.0"
+  }
+}

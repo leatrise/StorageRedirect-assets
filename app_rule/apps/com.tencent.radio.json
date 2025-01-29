@@ -1,0 +1,22 @@
+{
+  "label": "企鹅FM",
+  "package": "com.tencent.radio",
+  "last_update": {
+    "timestamp": 1652076282,
+    "version_name": "7.16.3.91",
+    "version_code": 73,
+    "target_api": 29,
+    "flags": 0
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

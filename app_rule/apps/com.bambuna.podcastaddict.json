@@ -1,0 +1,28 @@
+{
+  "label": "Podcast Addict",
+  "package": "com.bambuna.podcastaddict",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595903713,
+    "version_name": "2020.10",
+    "version_code": 20241
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@app_backup",
+        "source": "Backup",
+        "target": "Download/podcast-addict-backup",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

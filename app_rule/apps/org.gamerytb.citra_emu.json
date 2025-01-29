@@ -1,0 +1,21 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Sony",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 21797883,
+    "version_name": "97d5d6b16",
+    "timestamp": 1674095590
+  },
+  "non_standard_files": [
+    "citra-emu"
+  ],
+  "behaviors": [],
+  "recommendation": "@depends_on_situations",
+  "package": "org.gamerytb.citra_emu"
+}

@@ -1,0 +1,16 @@
+{
+  "label": "企鹅电竞",
+  "package": "com.tencent.qgame",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1604713495,
+    "version_name": "6.4.0.526",
+    "version_code": 526
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

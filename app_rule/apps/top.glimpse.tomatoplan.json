@@ -1,0 +1,16 @@
+{
+  "label": "番茄打卡",
+  "package": "top.glimpse.tomatoplan",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1597303477,
+    "version_name": "2.15.5",
+    "version_code": 152
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

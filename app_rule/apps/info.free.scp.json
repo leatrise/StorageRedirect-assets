@@ -1,0 +1,16 @@
+{
+  "label": "SCP基金会",
+  "package": "info.free.scp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1611572945,
+    "version_name": "0.2.1",
+    "version_code": 22
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

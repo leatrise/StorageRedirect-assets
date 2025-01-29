@@ -1,0 +1,16 @@
+{
+  "label": "Connect IQ",
+  "package": "com.garmin.connectiq",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595903636,
+    "version_name": "2.2",
+    "version_code": 216
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

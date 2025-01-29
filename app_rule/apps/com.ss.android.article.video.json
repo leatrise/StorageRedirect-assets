@@ -1,0 +1,16 @@
+{
+  "label": "西瓜视频",
+  "package": "com.ss.android.article.video",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1618637407,
+    "version_name": "5.6.0",
+    "version_code": 560
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

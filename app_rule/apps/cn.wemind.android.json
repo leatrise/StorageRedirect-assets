@@ -1,0 +1,16 @@
+{
+  "label": "微秘",
+  "package": "cn.wemind.android",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614013344,
+    "version_name": "3.6.5",
+    "version_code": 66
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

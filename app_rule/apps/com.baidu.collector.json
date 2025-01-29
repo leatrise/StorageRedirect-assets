@@ -1,0 +1,25 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 26,
+    "version_code": 665,
+    "version_name": "3.9.3",
+    "timestamp": 1673871965
+  },
+  "non_standard_files": [
+    ".BD_SAPI_CACHE",
+    "backups",
+    "baiduBusTracker"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.baidu.collector"
+}

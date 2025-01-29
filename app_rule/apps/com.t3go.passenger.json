@@ -1,0 +1,22 @@
+{
+  "label": "T3出行",
+  "package": "com.t3go.passenger",
+  "last_update": {
+    "timestamp": 1652059234,
+    "version_name": "2.1.42",
+    "version_code": 483,
+    "target_api": 28,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

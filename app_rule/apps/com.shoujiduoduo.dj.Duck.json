@@ -1,0 +1,28 @@
+{
+  "label": "DJ多多",
+  "package": "com.shoujiduoduo.dj.Duck",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595597618,
+    "version_name": "3.9.66",
+    "version_code": 3966
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "DJDD/Download",
+        "target": "Music/DJ",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

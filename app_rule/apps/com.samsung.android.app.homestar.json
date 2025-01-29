@@ -1,0 +1,28 @@
+{
+  "label": "Home Up",
+  "package": "com.samsung.android.app.homestar",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595692484,
+    "version_name": "1.0.01.11",
+    "version_code": 100100011
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.sec.android.app.launcher",
+        "target": "com.samsung.android.app.homestar",
+        "paths": [
+          ".AutoBackupPreview",
+          ".AutoBackup"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.ims",
+  "last_update": {
+    "target_api": 33,
+    "flags": "read_storage",
+    "timestamp": 1656216297,
+    "version_code": 30829728,
+    "version_name": "106.0.454714681-carrierservices_20220530_RC01"
+  }
+}

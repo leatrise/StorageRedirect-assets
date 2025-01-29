@@ -1,0 +1,16 @@
+{
+  "label": "丁香医生",
+  "package": "cn.dxy.android.aspirin",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638521659,
+    "version_name": "9.7.1",
+    "version_code": 20211112
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

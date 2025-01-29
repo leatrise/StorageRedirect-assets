@@ -1,0 +1,25 @@
+{
+  "device_info": {
+    "manufacturer": "blackshark",
+    "api": 30,
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "last_update": {
+    "target_api": 29,
+    "shared_user_id": "com.ume.browser.uid",
+    "flags": "read_storage, write_storage",
+    "version_code": 20220704,
+    "timestamp": 1664514830,
+    "version_name": "BrowserV1.0.20220704"
+  },
+  "package": "com.ume.browser.hs",
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".oukdtft",
+    "tencent"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "掌上京彩",
+  "package": "com.csii.bj.ui",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1592113877,
+    "version_name": "4.1.1",
+    "version_code": 78
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

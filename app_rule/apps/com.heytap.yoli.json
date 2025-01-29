@@ -1,0 +1,16 @@
+{
+  "label": "视频",
+  "package": "com.heytap.yoli",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1602128204,
+    "version_name": "40.4.0.1.1",
+    "version_code": 40400011
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

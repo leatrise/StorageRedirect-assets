@@ -1,0 +1,22 @@
+{
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 34,
+    "version_code": 100401001,
+    "version_name": "1.4.1",
+    "timestamp": 1699922063
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "Download/.exmu-cfg1.data"  ],
+  "recommendation": "@recommended",
+  "package": "com.hypergryph.skland"
+}

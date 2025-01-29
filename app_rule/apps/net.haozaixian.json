@@ -1,0 +1,34 @@
+{
+  "verified": false,
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 33,
+    "manufacturer": "Xiaomi"
+  },
+  "non_standard_files": [
+    ".net.haozaixian",
+    ".thumbcache_idx_cKzsLdSNfUG5OukZQ8xY",
+    "Android/.zybid",
+    "Android/.zybkey",
+    "Android/ANDROID.PERMISSION.TEST",
+    "DCIM/.thumbcache_idx_cKzsLdSNfUG5OukZQ8xY",
+    "Documents/.thumbcache_idx_cKzsLdSNfUG5OukZQ8xY",
+    "Download/.thumbcache_idx_cKzsLdSNfUG5OukZQ8xY",
+    "Pictures/.thumbcache_idx_cKzsLdSNfUG5OukZQ8xY",
+    "Tencent",
+    "backups",
+    "作业帮"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "net.haozaixian",
+  "recommendation": "@recommended",
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 28,
+    "version_name": "3.9.0",
+    "timestamp": 1702482428,
+    "version_code": 1210
+  }
+}

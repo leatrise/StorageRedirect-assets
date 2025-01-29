@@ -1,0 +1,16 @@
+{
+  "label": "冷鸟社区",
+  "package": "com.yousayousa.apk",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586831695,
+    "version_name": "2.5.8",
+    "version_code": 3
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

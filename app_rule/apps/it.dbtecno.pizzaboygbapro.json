@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 33,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "it.dbtecno.pizzaboygbapro",
+  "last_update": {
+    "target_api": 32,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1664142316,
+    "version_code": 278,
+    "version_name": "2.0.5"
+  }
+}

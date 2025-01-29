@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 31,
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "last_update": {
+    "target_api": 33,
+    "flags": "",
+    "version_code": 2,
+    "timestamp": 1679240764,
+    "version_name": "1.0.1"
+  },
+  "package": "ling.ling.dian",
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
+}

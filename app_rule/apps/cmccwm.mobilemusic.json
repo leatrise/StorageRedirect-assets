@@ -1,0 +1,28 @@
+{
+  "label": "咪咕音乐",
+  "package": "cmccwm.mobilemusic",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1648974746,
+    "version_name": "7.11.0",
+    "version_code": 412
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "12530/download",
+        "target": "Music/12530",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

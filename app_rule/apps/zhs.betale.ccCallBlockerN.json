@@ -1,0 +1,16 @@
+{
+  "label": "CC来电拦截N+",
+  "package": "zhs.betale.ccCallBlockerN",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612813094,
+    "version_name": "0.22.8.200401",
+    "version_code": 249
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

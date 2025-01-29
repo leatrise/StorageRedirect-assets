@@ -1,0 +1,23 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-Hans-CN",
+    "api": 33
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 33,
+    "version_code": 34,
+    "version_name": "4.0.4",
+    "timestamp": 1676990973
+  },
+  "non_standard_files": [
+    "umeng_cache"
+  ],
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.shiyi.toolbox"
+}

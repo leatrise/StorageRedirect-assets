@@ -1,0 +1,16 @@
+{
+  "label": "APK Kit",
+  "package": "com.github.ghmxr.apkextractor",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595830939,
+    "version_name": "Build 13",
+    "version_code": 13
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

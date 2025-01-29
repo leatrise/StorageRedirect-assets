@@ -1,0 +1,25 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 34
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 33,
+    "version_code": 905045270,
+    "version_name": "v8.0.3.0119",
+    "timestamp": 1709704221
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    "DCIM/ddpai",
+    "Log",
+    "Music/ddpai"
+  ],
+  "recommendation": "@recommended",
+  "package": "com.vyou.vcameraclient"
+}

@@ -1,0 +1,16 @@
+{
+  "label": "Pokémon GO",
+  "package": "com.nianticlabs.pokemongo.ares",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1624803485,
+    "version_name": "0.211.3",
+    "version_code": 2021062100
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

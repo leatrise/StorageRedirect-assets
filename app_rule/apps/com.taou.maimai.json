@@ -1,0 +1,16 @@
+{
+  "label": "脉脉",
+  "package": "com.taou.maimai",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638523789,
+    "version_name": "6.1.30",
+    "version_code": 60130
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

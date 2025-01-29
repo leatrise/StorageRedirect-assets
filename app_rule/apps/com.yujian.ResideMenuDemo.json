@@ -1,0 +1,16 @@
+{
+  "label": "雨见浏览器",
+  "package": "com.yujian.ResideMenuDemo",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614013259,
+    "version_name": "5.9.0.2",
+    "version_code": 114
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

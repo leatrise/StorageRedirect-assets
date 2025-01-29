@@ -1,0 +1,22 @@
+{
+  "label": "189邮箱",
+  "package": "com.corp21cn.mail189",
+  "last_update": {
+    "timestamp": 1654010521,
+    "version_name": "8.3.6",
+    "version_code": 127,
+    "target_api": 28,
+    "flags": 3
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 32,
+    "manufacturer": "OnePlus",
+    "brand": "OnePlus",
+    "model": "ONEPLUS A6003",
+    "locale": "zh-CN"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 33,
+    "manufacturer": "OnePlus"
+  },
+  "verified": true,
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [
+    "eu.darken.sdmse-test-area-access-local-2c440932-7b16-4907-887c-f2886c1c58a6",
+    "eu.darken.sdmse-test-area-access-local-2de4290c-2bea-4ac8-9065-42d9287254e7",
+    "eu.darken.sdmse-test-area-access-local-7ddc0269-07c8-45ee-b0e6-ed5ff5e71b20",
+    "eu.darken.sdmse-test-area-access-local-c008addf-2bbf-4050-9a9b-dda3a0d7be7a",
+    "eu.darken.sdmse-test-area-access-local-c9629a79-f8ee-4dc7-a9b7-b84d65d06ed8"
+  ],
+  "package": "eu.darken.sdmse",
+  "last_update": {
+    "target_api": 33,
+    "flags": "read_storage, write_storage",
+    "version_name": "0.10.8-beta1",
+    "timestamp": 1691204344,
+    "version_code": 1008010
+  }
+}

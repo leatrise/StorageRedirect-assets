@@ -1,0 +1,16 @@
+{
+  "label": "京东读书专业版",
+  "package": "com.jingdong.app.reader.campus",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638541812,
+    "version_name": "3.9.0",
+    "version_code": 3090002
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

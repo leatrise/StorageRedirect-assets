@@ -1,0 +1,25 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 31,
+    "locale": "zh-CN"
+  },
+  "non_standard_files": [
+    "Android/obj",
+    "cache",
+    "header.jpg"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 30,
+    "version_code": 69,
+    "timestamp": 1654406430,
+    "version_name": "3.1.0"
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.fiio.music",
+  "recommendation": "@recommended"
+}

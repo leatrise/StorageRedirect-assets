@@ -1,0 +1,33 @@
+{
+  "device_info": {
+    "locale": "zh-CN",
+    "api": 33,
+    "manufacturer": "Xiaomi"
+  },
+  "verified": false,
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [
+    ".7934039a",
+    ".OAIDSystemConfig",
+    ".UTSystemConfig",
+    ".a8a3_1944_91d5_aa08_18b0",
+    ".gs_fs6",
+    ".jpush",
+    ".oukdtft",
+    ".vivo",
+    "com.shuqi.controller",
+    "data",
+    "shuqi"
+  ],
+  "package": "com.shuqi.controller",
+  "last_update": {
+    "target_api": 26,
+    "flags": "read_storage, write_storage",
+    "version_name": "11.8.9.187",
+    "timestamp": 1684987294,
+    "version_code": 267
+  }
+}

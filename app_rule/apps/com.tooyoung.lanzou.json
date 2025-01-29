@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "api": 31,
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "last_update": {
+    "target_api": 30,
+    "flags": "read_storage, write_storage",
+    "version_code": 130,
+    "timestamp": 1664906769,
+    "version_name": "1.2.7.4"
+  },
+  "package": "com.tooyoung.lanzou",
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": []
+}

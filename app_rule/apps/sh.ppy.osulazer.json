@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 33,
+    "manufacturer": "OnePlus",
+    "locale": "zh-Hans-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "package": "sh.ppy.osulazer",
+  "recommendation": "@unnecessary",
+  "last_update": {
+    "target_api": 33,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1697774149,
+    "version_code": 202310081,
+    "version_name": "2023.1008.1"
+  },
+  "non_standard_files": []
+}

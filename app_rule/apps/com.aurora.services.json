@@ -1,0 +1,36 @@
+{
+  "label": "Aurora Services",
+  "package": "com.aurora.services",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1596147451,
+    "version_name": "1.0.6",
+    "version_code": 6
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "accessible_folders": {
+    "data": {
+      "0": {
+        "source": "com.aurora.store",
+        "target": "com.aurora.services",
+        "paths": [
+          "Aurora"
+        ]
+      }
+    }
+    "data": {
+      "0": {
+        "source": "com.aurora.adroid",
+        "target": "com.aurora.services",
+        "paths": [
+          "Aurora/Droid"
+        ]
+      }
+  }
+}
+}

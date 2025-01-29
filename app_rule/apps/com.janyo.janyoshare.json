@@ -1,0 +1,28 @@
+{
+  "label": "JY Share",
+  "package": "com.janyo.janyoshare",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1617292638,
+    "version_name": "3.0.2",
+    "version_code": 283
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "导出的 APK 文件",
+        "source": "JY Share",
+        "target": "Documents/JY Share",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

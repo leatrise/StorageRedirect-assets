@@ -1,0 +1,16 @@
+{
+  "label": "小宇宙",
+  "package": "app.podcast.cosmos",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595903896,
+    "version_name": "1.7.1",
+    "version_code": 100
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

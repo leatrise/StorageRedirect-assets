@@ -1,0 +1,16 @@
+{
+  "label": "VP电竞",
+  "package": "com.vpgame.eric",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1586840453,
+    "version_name": "3.4.3",
+    "version_code": 168
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

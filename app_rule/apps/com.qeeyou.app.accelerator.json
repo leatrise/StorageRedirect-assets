@@ -1,0 +1,16 @@
+{
+  "label": "奇游手游加速器",
+  "package": "com.qeeyou.app.accelerator",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1587181594,
+    "version_name": "2.3.7",
+    "version_code": 237
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

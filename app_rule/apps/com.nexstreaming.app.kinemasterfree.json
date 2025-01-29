@@ -1,0 +1,28 @@
+{
+  "label": "巧影",
+  "package": "com.nexstreaming.app.kinemasterfree",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1604899217,
+    "version_name": "4.11.16.14372.GP",
+    "version_code": 14372
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "KineMaster",
+        "target": "Documents/KineMaster",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": true
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "label": "记时光",
+  "package": "com.ifreedomer.timenote",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1593347843,
+    "version_name": "5.7.4",
+    "version_code": 574
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

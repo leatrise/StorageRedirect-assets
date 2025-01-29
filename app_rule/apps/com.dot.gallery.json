@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "en-US",
+    "api": 33
+  },
+  "verified": true,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 34,
+    "version_code": 20079,
+    "version_name": "2.0.0",
+    "timestamp": 1702788750
+  },
+  "behaviors": [
+    "@standard"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@unnecessary",
+  "package": "com.dot.gallery"
+}

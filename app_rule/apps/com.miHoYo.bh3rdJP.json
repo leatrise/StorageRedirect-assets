@@ -1,0 +1,16 @@
+{
+  "label": "崩壊3rd",
+  "package": "com.miHoYo.bh3rdJP",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1612812871,
+    "version_name": "4.5.0",
+    "version_code": 351
+  },
+  "recommendation": "@unnecessary",
+  "behaviors": [
+    "@standard"
+  ]
+}

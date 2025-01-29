@@ -1,0 +1,16 @@
+{
+  "label": "掌上中山一院",
+  "package": "com.maytaste.ihealth",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595902593,
+    "version_name": "3.1.11",
+    "version_code": 89
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

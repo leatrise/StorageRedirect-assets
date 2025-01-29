@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": false,
+  "behaviors": [
+    "@abuse"
+  ],
+  "recommendation": "@recommended",
+  "non_standard_files": [],
+  "package": "com.gaotu100.jingpin",
+  "last_update": {
+    "target_api": 26,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1658878258,
+    "version_code": 1152,
+    "version_name": "0.9.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "verified": false,
+  "device_info": {
+    "manufacturer": "samsung",
+    "api": 31,
+    "locale": "zh-Hans-CN"
+  },
+  "non_standard_files": [
+    "wxasce"
+  ],
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 26,
+    "version_code": 102,
+    "timestamp": 1653649733,
+    "version_name": "1.0.2"
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "package": "com.tencent.mm.wxa.sce",
+  "recommendation": "@recommended"
+}

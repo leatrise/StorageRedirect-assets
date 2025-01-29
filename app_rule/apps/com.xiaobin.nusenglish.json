@@ -1,0 +1,16 @@
+{
+  "label": "省心英语",
+  "package": "com.xiaobin.nusenglish",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638524501,
+    "version_name": "3.8.8",
+    "version_code": 248
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

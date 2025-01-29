@@ -1,0 +1,28 @@
+{
+  "label": "虎扑",
+  "package": "com.hupu.gp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1596350442,
+    "version_name": "7.3.35.11893",
+    "version_code": 7583
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@saved_files",
+        "source": "hupu/games/image/hupuImage",
+        "target": "Pictures/虎扑",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

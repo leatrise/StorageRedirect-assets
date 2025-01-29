@@ -1,0 +1,28 @@
+{
+  "label": "北航云盘",
+  "package": "com.eisoo.anyshare",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1617897575,
+    "version_name": "6.0.12.1",
+    "version_code": 1501
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "summary": "@downloaded_files",
+        "source": "北航云盘",
+        "target": "Download/北航云盘",
+        "call_media_scan": false,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

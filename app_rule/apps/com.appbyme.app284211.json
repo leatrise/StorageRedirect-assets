@@ -1,0 +1,16 @@
+{
+  "label": "恩山无线论坛",
+  "package": "com.appbyme.app284211",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1616903337,
+    "version_name": "1.0.20",
+    "version_code": 10020
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

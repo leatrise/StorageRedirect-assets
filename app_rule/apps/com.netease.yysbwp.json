@@ -1,0 +1,16 @@
+{
+  "label": "阴阳师:百闻牌",
+  "package": "com.netease.yysbwp",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1588907881,
+    "version_name": "1.0.3402",
+    "version_code": 92146
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

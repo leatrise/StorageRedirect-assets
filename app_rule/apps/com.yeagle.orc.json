@@ -1,0 +1,16 @@
+{
+  "label": "Apus文字识别",
+  "package": "com.yeagle.orc",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1606285996,
+    "version_name": "5.0.0",
+    "version_code": 54
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

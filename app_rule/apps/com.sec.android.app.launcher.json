@@ -1,0 +1,16 @@
+{
+  "label": "One UI ?",
+  "package": "com.sec.android.app.launcher",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1595692049,
+    "version_name": "11.2.01.10",
+    "version_code": 1120105010
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

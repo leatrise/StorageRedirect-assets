@@ -1,0 +1,16 @@
+{
+  "label": "领导留言板",
+  "package": "cc.rideal.messageboard",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638523153,
+    "version_name": "3.3.4",
+    "version_code": 334
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

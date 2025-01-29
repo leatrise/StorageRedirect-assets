@@ -1,0 +1,16 @@
+{
+  "label": "PNC",
+  "package": "com.pnc.ecommerce.mobile",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1592623116,
+    "version_name": "4.15",
+    "version_code": 503310849
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

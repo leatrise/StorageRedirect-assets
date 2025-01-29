@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 31,
+    "manufacturer": "OnePlus",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "moe.tarsin.ehviewer",
+  "last_update": {
+    "target_api": 33,
+    "flags": "read_storage",
+    "timestamp": 1659619635,
+    "version_code": 180004,
+    "version_name": "1.8.0.4"
+  }
+}

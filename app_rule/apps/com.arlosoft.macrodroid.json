@@ -1,0 +1,21 @@
+{
+  "verified": true,
+  "device_info": {
+    "manufacturer": "OnePlus",
+    "locale": "zh-Hans-CN",
+    "api": 31
+  },
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 31,
+    "version_code": 8290013,
+    "version_name": "5.29.12",
+    "timestamp": 1673600241
+  },
+  "non_standard_files": [],
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "package": "com.arlosoft.macrodroid"
+}

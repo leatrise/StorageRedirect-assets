@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "api": 32,
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN"
+  },
+  "verified": true,
+  "behaviors": [
+    "@standard"
+  ],
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
+  "package": "com.google.android.webview",
+  "last_update": {
+    "target_api": 33,
+    "flags": "",
+    "timestamp": 1656217471,
+    "version_code": 500512534,
+    "version_name": "102.0.5005.125"
+  }
+}

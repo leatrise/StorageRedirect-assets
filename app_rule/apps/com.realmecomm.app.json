@@ -1,0 +1,16 @@
+{
+  "label": "realme社区",
+  "package": "com.realmecomm.app",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1593348104,
+    "version_name": "2.3.2",
+    "version_code": 222
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "一触即发",
+  "package": "com.yicu.yichujifa",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1614013309,
+    "version_name": "2.9.1",
+    "version_code": 101
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

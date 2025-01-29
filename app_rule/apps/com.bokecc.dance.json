@@ -1,0 +1,27 @@
+{
+  "label": "糖豆",
+  "package": "com.bokecc.dance",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1591866296,
+    "version_name": "7.0.3",
+    "version_code": 241
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "export_folders": {
+    "data": {
+      "0": {
+        "source": "CCDownload",
+        "target": "Video/糖豆",
+        "call_media_scan": true,
+        "add_to_downloads": false,
+        "allow_child": false
+      }
+    }
+  }
+}

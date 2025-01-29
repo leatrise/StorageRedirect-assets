@@ -1,0 +1,22 @@
+{
+  "label": "同程旅行",
+  "package": "com.tongcheng.android",
+  "last_update": {
+    "timestamp": 1652073306,
+    "version_name": "10.3.2.1",
+    "version_code": 299,
+    "target_api": 29,
+    "flags": 0
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "label": "泡芙短视频",
+  "package": "com.pf.tick",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1602575269,
+    "version_name": "3.2.3",
+    "version_code": 458
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

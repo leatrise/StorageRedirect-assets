@@ -1,0 +1,21 @@
+{
+  "device_info": {
+    "manufacturer": "Xiaomi",
+    "locale": "zh-CN",
+    "api": 33
+  },
+  "verified": false,
+  "last_update": {
+    "flags": "read_storage, write_storage",
+    "target_api": 29,
+    "version_code": 41602,
+    "version_name": "4.16.1",
+    "timestamp": 1716843573
+  },
+  "behaviors": [
+    "@abuse"
+  ],
+  "non_standard_files": [],
+  "recommendation": "@recommended",
+  "package": "droom.sleepIfUCan.pro"
+}

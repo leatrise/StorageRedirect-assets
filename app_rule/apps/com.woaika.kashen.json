@@ -1,0 +1,16 @@
+{
+  "label": "我爱卡",
+  "package": "com.woaika.kashen",
+  "authors": [
+    ""
+  ],
+  "last_update": {
+    "timestamp": 1638542580,
+    "version_name": "6.9.0",
+    "version_code": 2111045145
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ]
+}

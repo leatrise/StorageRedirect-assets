@@ -1,0 +1,22 @@
+{
+  "label": "途牛旅游",
+  "package": "com.tuniu.app.ui",
+  "last_update": {
+    "timestamp": 1652073776,
+    "version_name": "10.70.1",
+    "version_code": 248,
+    "target_api": 28,
+    "flags": 11
+  },
+  "recommendation": "@recommended",
+  "behaviors": [
+    "@abuse"
+  ],
+  "device_info": {
+    "api": 29,
+    "manufacturer": "Xiaomi",
+    "brand": "Xiaomi",
+    "model": "MI 6",
+    "locale": "zh-Hans-CN"
+  }
+}
