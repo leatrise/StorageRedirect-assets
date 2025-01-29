@@ -1,80 +1,17 @@
 {
-  "device_info": {
-    "api": 31,
-    "manufacturer": "Xiaomi",
-    "locale": "zh-CN"
-  },
-  "verified": false,
-  "behaviors": [
-    "@abuse"
-  ],
-  "recommendation": "@recommended",
-  "non_standard_files": [
-    "Documents/1994036591",
-    "Documents/environment.pub",
-    "Pictures/bili",
-    "tv.danmaku.bili"
-  ],
-  "package": "tv.danmaku.bibi",
-  "last_update": {
-    "target_api": 28,
-    "flags": "read_storage, write_storage, android_writeable",
-    "timestamp": 1657022468,
-    "version_code": 996030610,
-    "version_name": "6.3.0"
-  }
-}
-{
-  "device_info": {
-    "api": 31,
-    "manufacturer": "Xiaomi",
-    "locale": "zh-CN"
-  },
-  "verified": false,
-  "behaviors": [
-    "@abuse"
-  ],
-  "recommendation": "@recommended",
-  "non_standard_files": [
-    "Documents/1994036591",
-    "Documents/environment.pub",
-    "tv.danmaku.bili"
-  ],
-  "package": "tv.danmaku.bilj",
-  "last_update": {
-    "target_api": 26,
-    "flags": "read_storage, write_storage, android_writeable",
-    "timestamp": 1657022459,
-    "version_code": 548310000,
-    "version_name": "5.48.3"
-  }
-}
-{
-  "device_info": {
-    "api": 31,
-    "manufacturer": "Xiaomi",
-    "locale": "zh-CN"
-  },
-  "verified": false,
-  "behaviors": [
-    "@abuse"
-  ],
-  "recommendation": "@recommended",
-  "non_standard_files": [
-    "Documents/-1250978742",
-    "Documents/-138386686",
-    "Documents/1994036591",
-    "Documents/environment.pub",
-    "com.bilibili.comic",
-    "com.bilibili.qing",
-    "tv.danmaku.bili"
-  ],
+  "label": "哔哩哔哩",
   "package": "tv.danmaku.bili",
+  "verified": true,
+  "recommendation": "@unnecessary",
+  "non_standard_files": [],
   "last_update": {
-    "target_api": 31,
-    "flags": "read_storage, write_storage, android_writeable",
-    "timestamp": 1657022426,
-    "version_code": 6790300,
-    "version_name": "6.79.0"
-  }
+    "target_api": 32,
+    "flags": "read_storage, write_storage",
+    "timestamp": 1667322425,
+    "version_name": "7.3.0",
+    "version_code": 7030300
+  },
+  "behaviors": [
+    "@standard"
+  ]
 }
